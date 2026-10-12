@@ -1,0 +1,2497 @@
+{
+  "source_origin": "https://jianming-shima.workspace-237337.chatgpt.site",
+  "target_origin": "https://jamiewang20.github.io",
+  "source_commit": "2b007123b55c55b9e40d09ae4cce6ce1b7ba1359",
+  "files": [
+    {
+      "path": "404.html",
+      "sha256": "c6ad5390cbab14d7e1baa611586acc2c3a9c87365feeadd0afcd5579aa417ecf",
+      "size": 1985
+    },
+    {
+      "path": "article.css",
+      "sha256": "bc6df734b52ff6465451566af3522df0454124ee5d5349eacd1fdd7a20538e08",
+      "size": 10052
+    },
+    {
+      "path": "articles/a-century-of-robotics-ep01/index.html",
+      "sha256": "0b495c0365ded8956ba58d75dbd1f9fc0453d15f5853fb9d61f973048d064f4c",
+      "size": 33810
+    },
+    {
+      "path": "articles/ai-robotics-researcher-map/index.html",
+      "sha256": "d3034aee85abb414ce62d26e0cfe2dd08df17d41cb7dc6e33f4880b81eede6c9",
+      "size": 56075
+    },
+    {
+      "path": "articles/can-large-models-enable-general-robots/index.html",
+      "sha256": "931f406bcac7c51f603e06e7abd3cfa05a7e2e45a8e79accb0fac50145de14c3",
+      "size": 37058
+    },
+    {
+      "path": "articles/cewu-lu-noematrix/index.html",
+      "sha256": "365d5e87771361f5fe747562b3aeefc513800d399a5adb238b1a77e6c422d230",
+      "size": 57718
+    },
+    {
+      "path": "articles/covariant-rfm1-peter-chen/index.html",
+      "sha256": "ede91449357c88aa95397c17f573db1a500346fdc0f5a9b144102237b3fb4a58",
+      "size": 33388
+    },
+    {
+      "path": "articles/dexterous-manipulation-research-review/index.html",
+      "sha256": "362d640239d9915dff52dcd4d877fd64a3bdca48872b3180a643df66c678ffd7",
+      "size": 62909
+    },
+    {
+      "path": "articles/diffusion-policy/index.html",
+      "sha256": "443cb077fa7152895f84da8428c6f3da9d4047db4bb0c2f87123fd2ca4fc90a4",
+      "size": 36412
+    },
+    {
+      "path": "articles/dp3-idp3-3d-diffusion-policy/index.html",
+      "sha256": "f6db0a30dca96178ab896fb0b8e204b2d6b6d24dd1e92c2e44824b8889d72ac2",
+      "size": 35544
+    },
+    {
+      "path": "articles/embodied-ai-super-dialogue/index.html",
+      "sha256": "f01ebcdc0fd983afbce8bda51852ddb28c286eb03dfc8633f988f3957908cdfa",
+      "size": 39943
+    },
+    {
+      "path": "articles/foundation-stereo-bowen-wen/index.html",
+      "sha256": "2a8565bbdb30290ce659f5dbfd0f81d0a10c050714c9fc8ece4f79b40237b361",
+      "size": 79207
+    },
+    {
+      "path": "articles/gelsight-fifteen-years/index.html",
+      "sha256": "3a3b54ea8b56ae867d63eb50e900de90d512acfa1bfa261a2bd9045f81c8330f",
+      "size": 62327
+    },
+    {
+      "path": "articles/gendp-3d-dynamic-semantics/index.html",
+      "sha256": "14fa2d5472273f81437b9dcaa320d254e3bbfc8e06ea481f58028d79f2e7c4b3",
+      "size": 33748
+    },
+    {
+      "path": "articles/genesis-physics-engine/index.html",
+      "sha256": "1cf6d197e3f2c698121bab7e7a254bea2d35c1cb84fd1b7fe3927ab03d35ee59",
+      "size": 49496
+    },
+    {
+      "path": "articles/human-data-danfei-xu/index.html",
+      "sha256": "79bb0a1c66ef398100a7b8dcbd990aacaa0adc9d0c4122ee45563d0f75163d3b",
+      "size": 65588
+    },
+    {
+      "path": "articles/human-data-ep01-twist/index.html",
+      "sha256": "7bfe2845a9146081a2231dfb848dfefc541aa687fa95df9134c0aad96b53fd92",
+      "size": 33493
+    },
+    {
+      "path": "articles/human-data-ep02-gmt/index.html",
+      "sha256": "7bad483da8d2c4d6646b796f0368897c55424ea3e5d02726e1f74a31cac8a300",
+      "size": 23044
+    },
+    {
+      "path": "articles/human-data-ep03-exbody2/index.html",
+      "sha256": "26a30852c2bfb722212056be45bc31bb9680ed59bfcca9aefc17f0c241e81eab",
+      "size": 26111
+    },
+    {
+      "path": "articles/human-data-ep04-videomimic/index.html",
+      "sha256": "6f4e17692e28e8c478ef8963c70eb7a49a1ba17cd04ff2123a08f953cb6ce23e",
+      "size": 35343
+    },
+    {
+      "path": "articles/human-data-ep05-hub/index.html",
+      "sha256": "5dd1f546dbcc8ea0e89b3c85f6c9864f4fdfd77e3bc2866c914cf85795800296",
+      "size": 27771
+    },
+    {
+      "path": "articles/human-data-ep06-gae/index.html",
+      "sha256": "b8333972e56dbcc3a5081f4477aea63c4eafd6370ea99cd20fbf2f0a9049292e",
+      "size": 31134
+    },
+    {
+      "path": "articles/human-data-ep07-twist2/index.html",
+      "sha256": "dd6526d01599c87711c4efb44a09da00c60e397999e57e0c87f49d576cf51458",
+      "size": 17843
+    },
+    {
+      "path": "articles/human-data-ep08-omniretarget/index.html",
+      "sha256": "0fc064113d4ff3c04729f24782fe4231988ae7777131f6bffc1f0065eeafd984",
+      "size": 44980
+    },
+    {
+      "path": "articles/human-data-noitom-lei-han/index.html",
+      "sha256": "fb0a67739a631b3423c31674710b11a1978df345874657296099db541b079268",
+      "size": 35062
+    },
+    {
+      "path": "articles/human-data-noitom-ruoli-dai/index.html",
+      "sha256": "830dbf3985aaabb6bdae0b7c5fae21a749ca2e220b071e1d0ae1afc50dbf85e9",
+      "size": 36722
+    },
+    {
+      "path": "articles/human-data-series-summary/index.html",
+      "sha256": "f639ae1c96e7a92692611a2c8ed115e93023559a75680ee96228618cb134e530",
+      "size": 18697
+    },
+    {
+      "path": "articles/jason-peng-general-controller/index.html",
+      "sha256": "a1b00ebb6c67f76199cd41c17aa62e3d0d937b07410c7c2ca990d1680985456c",
+      "size": 47910
+    },
+    {
+      "path": "articles/jianlan-luo-real-world-rl/index.html",
+      "sha256": "3c5b9cc236ef2ca97cd0e441a48e14b997e48230c63b3f47be1c18a4044dd6cc",
+      "size": 36835
+    },
+    {
+      "path": "articles/lai-jie-astribot/index.html",
+      "sha256": "114718603250ccb7a37b8c76552900b7225102f9d06589c8693f0c9da088b0ea",
+      "size": 53539
+    },
+    {
+      "path": "articles/legged-robotics-research-landscape/index.html",
+      "sha256": "8fea43c4eef873801f76782a6d70fc2cb4c8767523dd10a37cf05c35d659c963",
+      "size": 38601
+    },
+    {
+      "path": "articles/modalitynet-human-to-robot-data/index.html",
+      "sha256": "a7c9d763db84d80c340cacaaec3aa5e9a3babf5dbc675608dd15d250c9e2a584",
+      "size": 60042
+    },
+    {
+      "path": "articles/osh-ep01-toddlerbot/index.html",
+      "sha256": "9c23e4d395ff78aa1af5e960f4ea4dd91b756b79f6dfec8c76bd8726da3134da",
+      "size": 25503
+    },
+    {
+      "path": "articles/reinforcement-learning-for-language-models/index.html",
+      "sha256": "a3c3df1b5a1e2071236fdd4b7d038eebdc87fba8f8d112081145726864b03c6d",
+      "size": 31915
+    },
+    {
+      "path": "articles/rfm-ep01-pi-pi0/index.html",
+      "sha256": "44bf5fae4f71e34f4d579be4bf3c0152c91802fa0d3b5c9acddcd7c65beb6e75",
+      "size": 56324
+    },
+    {
+      "path": "articles/rfm-ep02-octo/index.html",
+      "sha256": "dbc9d9adab50ebb06bfa517fd840aa12ed05f1472110e7ecb6e4657fd0e76b6c",
+      "size": 28423
+    },
+    {
+      "path": "articles/rfm-ep03-rdt/index.html",
+      "sha256": "92217fee67139191976c9bed48557e7c8e365d7ffd743a4c122358b08b0f7aed",
+      "size": 32468
+    },
+    {
+      "path": "articles/rfm-ep04-pi0-helix-go1/index.html",
+      "sha256": "ec290ceeceffb2d51d4a0a4f3a119e51170348be2825c17524da7c40845e49b9",
+      "size": 37559
+    },
+    {
+      "path": "articles/rfm-ep05-hi-robot/index.html",
+      "sha256": "146b3d8d917e68a7a3a7b3876fd1e22025fb7fb7e61c60c52ad898118d06820d",
+      "size": 37685
+    },
+    {
+      "path": "articles/rl-control-reliability-podcast/index.html",
+      "sha256": "1cef44df52a73ad189208215f48ef95c5f58f06c98e55de0362be5854fff9c4e",
+      "size": 88129
+    },
+    {
+      "path": "articles/robot-data-ep01-atm/index.html",
+      "sha256": "480b1a9dca2f500f7a56ff4e1eeb1017771e402a95c1c45795701f0374b84747",
+      "size": 31715
+    },
+    {
+      "path": "articles/robot-data-ep02-umi/index.html",
+      "sha256": "891bdb3a62ef8f2c52b13284fc7a4508ebeb8f794fc90c23c7c0839f2c090581",
+      "size": 39809
+    },
+    {
+      "path": "articles/robot-data-ep04-mimicplay-dexcap/index.html",
+      "sha256": "2f2db165a19ee775c35311db9b40844c110f9af9dd0ef1fe6df1c7004c630b8e",
+      "size": 45328
+    },
+    {
+      "path": "articles/robot-data-ep05-humanplus-mobile-aloha/index.html",
+      "sha256": "ed24a84afe379a23be6045688cb7496385fc757bc447d032be0ee3c1b1bbc165",
+      "size": 29071
+    },
+    {
+      "path": "articles/robot-data-ep06-eureka-dreureka/index.html",
+      "sha256": "6c791a920e68742a1bb21525e9bc2d065b32b4e82c7e481dac7bc43ba7419719",
+      "size": 59359
+    },
+    {
+      "path": "articles/robot-data-ep07-parkour-driving/index.html",
+      "sha256": "ee4787857647084ebdc4b2c9c45cd02ec9018765ef2678054223ac8857a4d781",
+      "size": 41471
+    },
+    {
+      "path": "articles/robot-data-ep08-robogen/index.html",
+      "sha256": "a0a79fa7e3cef02fdf890a3349d70e4a6564dd155bdacba02e53cbaf578b15d2",
+      "size": 48328
+    },
+    {
+      "path": "articles/robot-data-ep09-heterogeneous-data/index.html",
+      "sha256": "3d3eac6ddd7b877cdfe7c946cdbe0f5d4d7a4c93ae3c5956c683fd404396ca72",
+      "size": 48362
+    },
+    {
+      "path": "articles/robot-data-ep10-summary/index.html",
+      "sha256": "b664f4413e6a71d21ad831aa16777bd60a36e46069985672ab23544bc188cbea",
+      "size": 47085
+    },
+    {
+      "path": "articles/robot-data-open-television/index.html",
+      "sha256": "2a2eee7b53b8b68b6e2c615ecc01822b3c61cb911ecc11b36c7ece6d520551a3",
+      "size": 39278
+    },
+    {
+      "path": "articles/robot-reinforcement-learning/index.html",
+      "sha256": "fe02a558e1dccc81f0bca7f73c7891cb268ea2062baac28e4ae5dfefebfdd9f9",
+      "size": 62747
+    },
+    {
+      "path": "articles/robot-simulators-landscape/index.html",
+      "sha256": "81ad29e222b21dbb5902feefba45c3db3ad3c0415c321edbfa5e80960bebe713",
+      "size": 41818
+    },
+    {
+      "path": "articles/simulately-interview/index.html",
+      "sha256": "f5b138be092659fa1fe89bfad51f1158971e8b72430d71a011346f82dc6c28a7",
+      "size": 34660
+    },
+    {
+      "path": "articles/sonic-zhengyi-luo/index.html",
+      "sha256": "65ae7bacaf387dcdefc01050c7bc9d1e21865fc9921e7623296541effe2e6d8a",
+      "size": 61120
+    },
+    {
+      "path": "articles/vggt-jianyuan-wang/index.html",
+      "sha256": "3e423044bf6ecdb5d92a2995b29be8a90cc9f64d9967a2e89486467f64996fb8",
+      "size": 51015
+    },
+    {
+      "path": "articles/voxposer-rekep/index.html",
+      "sha256": "9e452ae5569b3804296f34b24a58fd3eb4ec48bc1620148bec5e90d1c4a7dd78",
+      "size": 49767
+    },
+    {
+      "path": "articles/world-models-ep01-dreamzero-dreamdojo/index.html",
+      "sha256": "7ecb0a4261a54d7d7192fd312db052d7743bed76cf3a707bb3ff073dd2948b97",
+      "size": 55946
+    },
+    {
+      "path": "articles/world-models-ep02-interactive-world-simulator/index.html",
+      "sha256": "f90ff563a0bdf7d15b6ec5e22bb25e5569f508adb29e3efb429b8ad1576a8ba9",
+      "size": 69135
+    },
+    {
+      "path": "articles/world-models-ep03-robotic-world-model/index.html",
+      "sha256": "375621958c162bd6f88b1b04562e4e94929d60b4c6f063ac5f0169757fc2c9f6",
+      "size": 59151
+    },
+    {
+      "path": "articles/world-models-ep04-motus/index.html",
+      "sha256": "8b727fef7abf41b80ef7711e6a7fc9738a6c70b6898031ec2914ccdd9f93a2e0",
+      "size": 45634
+    },
+    {
+      "path": "articles/world-models-ep05-pointworld/index.html",
+      "sha256": "719e6e77ed4ad456ce2daec004a94f1a7f54c02ff7217d42df9a381596ce4d15",
+      "size": 55801
+    },
+    {
+      "path": "articles/world-models-ep06-vpp/index.html",
+      "sha256": "7b3467f2fa4ed20f8ffd971d4156fbe369daf2577848448ba3bb21a959b98856",
+      "size": 44283
+    },
+    {
+      "path": "articles/yilun-du-ebm-video-generation/index.html",
+      "sha256": "302b77959f4df16e8f0b6d955bbc74f1a77371ad54c26bc83eef7f809de12dd0",
+      "size": 63289
+    },
+    {
+      "path": "articles/yunzhu-li-learned-dynamics/index.html",
+      "sha256": "116d57bbc8ebd0e383dc0efda746ce9fe1e48445b6bd4c9a4c5b51dd45f4cf1b",
+      "size": 41697
+    },
+    {
+      "path": "articles/zhe-chen-ai-robotics/index.html",
+      "sha256": "750b5709ab7edeb2ef59f0e02e98fa4c979505e92ae102565e571f6730925691",
+      "size": 41188
+    },
+    {
+      "path": "articles/zhengyi-luo-phc/index.html",
+      "sha256": "c9dd1df07b3a9c6d3672bcdfda9a66e6153efcf45c513efe4ac23eb9707f1d7a",
+      "size": 47846
+    },
+    {
+      "path": "articles/zhongyu-li-legged-control/index.html",
+      "sha256": "5d26871b846b11a3f18268204f45783fc7dc183a28171ef1265291436fad8de2",
+      "size": 55620
+    },
+    {
+      "path": "en/articles/a-century-of-robotics-ep01/index.html",
+      "sha256": "c4bfa2e1bf3b0a2a0e21f45a26a9ea79f2fbf7cbd51f4e7276925adee345bb8b",
+      "size": 38706
+    },
+    {
+      "path": "en/articles/ai-robotics-researcher-map/index.html",
+      "sha256": "51efb2058e42cd17efa2c52a1e5e042ffc413120c5daf127d348cac614552de8",
+      "size": 64525
+    },
+    {
+      "path": "en/articles/can-large-models-enable-general-robots/index.html",
+      "sha256": "2076444bf402fc67979087d710d6458778b7b53bbf473c16d44149b6576cd564",
+      "size": 37420
+    },
+    {
+      "path": "en/articles/cewu-lu-noematrix/index.html",
+      "sha256": "bf601234bfbb08a2437853bdd6ba2b635e63bb6f82d5c53174268a457ec3889d",
+      "size": 57568
+    },
+    {
+      "path": "en/articles/covariant-rfm1-peter-chen/index.html",
+      "sha256": "584cc16166d4cdfcd4176fb68a02102f6b549eeb55768c6719dd8dec5385c703",
+      "size": 35377
+    },
+    {
+      "path": "en/articles/dexterous-manipulation-research-review/index.html",
+      "sha256": "8bddb3e6342e1053189f6b1b04ec11f9c815f13bdbc83c5d41f508a0194e4db0",
+      "size": 60131
+    },
+    {
+      "path": "en/articles/diffusion-policy/index.html",
+      "sha256": "3f03bf205f16334a8a99266e9b66226c85f67c566258a6f8376cb81d67628132",
+      "size": 35632
+    },
+    {
+      "path": "en/articles/dp3-idp3-3d-diffusion-policy/index.html",
+      "sha256": "77b423d4dbbc319029d44575ff98b8a23af05c3e89607702a6e8742694fb33da",
+      "size": 35826
+    },
+    {
+      "path": "en/articles/embodied-ai-super-dialogue/index.html",
+      "sha256": "b51def2d33709070a634daee290b6a1ae20daf0aa50ce5b097082852d7700073",
+      "size": 40875
+    },
+    {
+      "path": "en/articles/foundation-stereo-bowen-wen/index.html",
+      "sha256": "f01b3a7876d6823c6e195be8109a25cf78740e8a00ad8724e40fae89e80f2b7c",
+      "size": 81143
+    },
+    {
+      "path": "en/articles/gelsight-fifteen-years/index.html",
+      "sha256": "5752101109cb6bb63d84a7ecaa41deb463e958117d531c9b03634f4bc8deb7c6",
+      "size": 65049
+    },
+    {
+      "path": "en/articles/gendp-3d-dynamic-semantics/index.html",
+      "sha256": "1ed3ff8fbb62b5c00fd5cba12df56f5e81d311c770893741c823ec2ff5d983b6",
+      "size": 32541
+    },
+    {
+      "path": "en/articles/genesis-physics-engine/index.html",
+      "sha256": "b21f896d1a9b2c42c65890ad7b3d48982f94dfe2b949880fba3e3a651749f60d",
+      "size": 54233
+    },
+    {
+      "path": "en/articles/human-data-danfei-xu/index.html",
+      "sha256": "f94fdc584e4f54b597de82e088eed0500bd9f6a52c155219918a0ff570555716",
+      "size": 55917
+    },
+    {
+      "path": "en/articles/human-data-ep01-twist/index.html",
+      "sha256": "3f25e05e4489958ffb2159e6ffe095e8ff18a7f508b7715de9e774e76d17e135",
+      "size": 36890
+    },
+    {
+      "path": "en/articles/human-data-ep02-gmt/index.html",
+      "sha256": "37eb35c39c93eefd4f19790602e568b3c0e58ed150aa096f9b84828173f499eb",
+      "size": 23445
+    },
+    {
+      "path": "en/articles/human-data-ep03-exbody2/index.html",
+      "sha256": "418d552af51f0ba354e3b656191c002a0de1321f80453e5be857587aaf1d9107",
+      "size": 26251
+    },
+    {
+      "path": "en/articles/human-data-ep04-videomimic/index.html",
+      "sha256": "8f4439a4019249c92d286094ca2edb1a7368f4ea5ca32e4bab70c24472c29868",
+      "size": 36517
+    },
+    {
+      "path": "en/articles/human-data-ep05-hub/index.html",
+      "sha256": "a897a078e00aedd0b7ad3fd541f7e15533a8f32bbd548cfbaadc8398374ad121",
+      "size": 26677
+    },
+    {
+      "path": "en/articles/human-data-ep06-gae/index.html",
+      "sha256": "a65ce3f7b24ba406d3b430d351bcd25ac47717dbf85d501fbeca0be783032b99",
+      "size": 29452
+    },
+    {
+      "path": "en/articles/human-data-ep07-twist2/index.html",
+      "sha256": "a26a7ab5aae731edd85c2e217456a012e68cee09798ed20e92655bd4edbec543",
+      "size": 18665
+    },
+    {
+      "path": "en/articles/human-data-ep08-omniretarget/index.html",
+      "sha256": "912ffa2987761be6a68a618d0a88a5d00c61b5500aeecde5de0261c90e9d7bc4",
+      "size": 43871
+    },
+    {
+      "path": "en/articles/human-data-noitom-lei-han/index.html",
+      "sha256": "f5f0467036f048d2f66709a8dad5e242c898383fdcde10a6962e35515a8ff725",
+      "size": 36378
+    },
+    {
+      "path": "en/articles/human-data-noitom-ruoli-dai/index.html",
+      "sha256": "0a69647c83f3c6ae8d74588bcffb53354e0a54836a6f52d6966b5ccb397c1739",
+      "size": 37975
+    },
+    {
+      "path": "en/articles/human-data-series-summary/index.html",
+      "sha256": "845ed4dd2ffc715d85b319af9454a48baceb8ded9bc02077b8285da71df2f560",
+      "size": 21647
+    },
+    {
+      "path": "en/articles/jason-peng-general-controller/index.html",
+      "sha256": "36bafe1b63b1a3e2ad8f6d02bcd1b36514f4534b5195964a9c8e8ff6f5790bd1",
+      "size": 43111
+    },
+    {
+      "path": "en/articles/jianlan-luo-real-world-rl/index.html",
+      "sha256": "5aa8df90f5c762c31be73127712bfd7076864433ccb82d7cd9ad9d6aacb62084",
+      "size": 37739
+    },
+    {
+      "path": "en/articles/lai-jie-astribot/index.html",
+      "sha256": "37dc4f0f630cfc9073839841b897394824cd04afb668a3d61c707d6c8b7b82c6",
+      "size": 50461
+    },
+    {
+      "path": "en/articles/legged-robotics-research-landscape/index.html",
+      "sha256": "5edf6eedcc35943512afac16978dc73436557bcf5fe8fef0017596df9f557f49",
+      "size": 41998
+    },
+    {
+      "path": "en/articles/modalitynet-human-to-robot-data/index.html",
+      "sha256": "23cb826dc8d2addef60de5b81b58f12821fd1ae240c56a3e84512921c14bab4d",
+      "size": 59338
+    },
+    {
+      "path": "en/articles/osh-ep01-toddlerbot/index.html",
+      "sha256": "2f1473d4465ccf18dcaca718f94efff0f17fd8f37ac3da72835391d44e744d4a",
+      "size": 26292
+    },
+    {
+      "path": "en/articles/reinforcement-learning-for-language-models/index.html",
+      "sha256": "bb2b032fa86b5451f14120dc1072ed0ecfc7950fc4a3bda10dd583126d4c92f7",
+      "size": 29846
+    },
+    {
+      "path": "en/articles/rfm-ep01-pi-pi0/index.html",
+      "sha256": "dab93bb4358f7112f2866e23bc6b64b56caf3d7a6379d7c4e70f4055e383344f",
+      "size": 56342
+    },
+    {
+      "path": "en/articles/rfm-ep02-octo/index.html",
+      "sha256": "e03df0b760aeef75e5f7111c332d57236875e8923416f1546559a9f53f4f437a",
+      "size": 28362
+    },
+    {
+      "path": "en/articles/rfm-ep03-rdt/index.html",
+      "sha256": "f0a00b43564ae3b6906e7fef9b9b6cfbe65bc2adc1916e2eefcb93e532f904c1",
+      "size": 36617
+    },
+    {
+      "path": "en/articles/rfm-ep04-pi0-helix-go1/index.html",
+      "sha256": "d9c5544870267f2efc05135aadc6eeee032f66426075fa0ed3c8397e21cb34a5",
+      "size": 44694
+    },
+    {
+      "path": "en/articles/rfm-ep05-hi-robot/index.html",
+      "sha256": "2a8f064ba0d910e29462f1d6ff93c2483d39babbbee56ca2506dce7c22df715c",
+      "size": 35309
+    },
+    {
+      "path": "en/articles/rl-control-reliability-podcast/index.html",
+      "sha256": "2c5b16f80ba3109acf826ad5ac94229dec0185f26fe0fe4b6474ff791a6d371f",
+      "size": 81888
+    },
+    {
+      "path": "en/articles/robot-data-ep01-atm/index.html",
+      "sha256": "23ceccf8150f06b12c94c45f9c3486dc96af049c3687ecb514781fe898172663",
+      "size": 32253
+    },
+    {
+      "path": "en/articles/robot-data-ep02-umi/index.html",
+      "sha256": "9cd16559902125976d091cacd8e7aa2be346866b844ca0185576a9c4f9d543df",
+      "size": 40371
+    },
+    {
+      "path": "en/articles/robot-data-ep04-mimicplay-dexcap/index.html",
+      "sha256": "4d5956f10fb4dfb27fa68efa8001fa304d0ec15245d2d257bd32910ebc0bcc1c",
+      "size": 43088
+    },
+    {
+      "path": "en/articles/robot-data-ep05-humanplus-mobile-aloha/index.html",
+      "sha256": "10e537d7b2fa29eb73532ddfc03beb00888f2771ba3c0695fdaaa60726068c22",
+      "size": 31105
+    },
+    {
+      "path": "en/articles/robot-data-ep06-eureka-dreureka/index.html",
+      "sha256": "97667d9d853911a743f9b7402b37ebb6546b76180c48f5bc074b2fb5e2946428",
+      "size": 62786
+    },
+    {
+      "path": "en/articles/robot-data-ep07-parkour-driving/index.html",
+      "sha256": "2b61cea536bfb09e3b39d1e9484ee5d1db1e2550091ac36fa72aa3634d3690fc",
+      "size": 40456
+    },
+    {
+      "path": "en/articles/robot-data-ep08-robogen/index.html",
+      "sha256": "4503adb6262faa8247ebac5721dea71873c1c97946531c959592a2c8d4233a3e",
+      "size": 47891
+    },
+    {
+      "path": "en/articles/robot-data-ep09-heterogeneous-data/index.html",
+      "sha256": "b4325773b0e8c6f38620a358c7d8bbf622ab1673be93856e7ae8300b1fda7f45",
+      "size": 47490
+    },
+    {
+      "path": "en/articles/robot-data-ep10-summary/index.html",
+      "sha256": "d4d52a0823001cfb537a4db24eb8f253ee8f5efce059d8e72f6eaababa776b8d",
+      "size": 47362
+    },
+    {
+      "path": "en/articles/robot-data-open-television/index.html",
+      "sha256": "de4b93ed693de139e729b1f2bf7dcca245c3cb92b0682859ea4e8d962d72d8ae",
+      "size": 38582
+    },
+    {
+      "path": "en/articles/robot-reinforcement-learning/index.html",
+      "sha256": "c64554ec7315912d452f0b2e567ceafd9006edf8b4135b0510785004b5ec86dd",
+      "size": 66288
+    },
+    {
+      "path": "en/articles/robot-simulators-landscape/index.html",
+      "sha256": "fa09d3ff05c53b5322f9fc8d7476878f2d08b31f70613c32b116f33e4c28674e",
+      "size": 45680
+    },
+    {
+      "path": "en/articles/simulately-interview/index.html",
+      "sha256": "7c40f87ca960cc180837a55e086ec84c370a82be71550538f066350c693555c4",
+      "size": 32651
+    },
+    {
+      "path": "en/articles/sonic-zhengyi-luo/index.html",
+      "sha256": "cdca8a1483a45f5e5a6b7792696ab7e39680a87623dcaf2fece7dc84fbc252e8",
+      "size": 58070
+    },
+    {
+      "path": "en/articles/vggt-jianyuan-wang/index.html",
+      "sha256": "f58ca81cb8235cfaf78658e0d451599d4872a9ed3c54287884f135bbada16105",
+      "size": 52184
+    },
+    {
+      "path": "en/articles/voxposer-rekep/index.html",
+      "sha256": "fd6431853d736e7c9d5856f297c0851693f58e2f2cb1fe1bf6fcf123d6a125a3",
+      "size": 50086
+    },
+    {
+      "path": "en/articles/world-models-ep01-dreamzero-dreamdojo/index.html",
+      "sha256": "d111675171b25296a7d3602ab849ebdc954e9afd950a84e873b3007311d1a385",
+      "size": 57951
+    },
+    {
+      "path": "en/articles/world-models-ep02-interactive-world-simulator/index.html",
+      "sha256": "702685d6e4f6050f0774ef33b154aec1e676e7811d48d2719e752b9ac73ead30",
+      "size": 61373
+    },
+    {
+      "path": "en/articles/world-models-ep03-robotic-world-model/index.html",
+      "sha256": "125469dd26ea7f397192b8ecbdb20adb64531de7cf9ca184d95731ebd5e70738",
+      "size": 52364
+    },
+    {
+      "path": "en/articles/world-models-ep04-motus/index.html",
+      "sha256": "4cdec48ed7e58f47f9969575006163c674b1444af8692350cb5d1dd36b3738cf",
+      "size": 48151
+    },
+    {
+      "path": "en/articles/world-models-ep05-pointworld/index.html",
+      "sha256": "b202481ad44dc1807a52e135956faf62d82bfe9b7d4e7e3b96903f597bb72815",
+      "size": 54777
+    },
+    {
+      "path": "en/articles/world-models-ep06-vpp/index.html",
+      "sha256": "2233b29637795fca8649086c5ca0c7830a651e21a3c0a5accbd25de9bfa7b8de",
+      "size": 47641
+    },
+    {
+      "path": "en/articles/yilun-du-ebm-video-generation/index.html",
+      "sha256": "2503fbd481310d152018310c698dda5ac57deb7887ce09052cecd4d6fd9082a7",
+      "size": 57409
+    },
+    {
+      "path": "en/articles/yunzhu-li-learned-dynamics/index.html",
+      "sha256": "a54e3e128998cb1490be30f502b2f68b0d2c94157485d473d0cb9b94fef6fab3",
+      "size": 40564
+    },
+    {
+      "path": "en/articles/zhe-chen-ai-robotics/index.html",
+      "sha256": "d878b7bccf2b95ed4ebd1c346ce3639d99f311288642bb44e799157c7a3aaf4c",
+      "size": 39535
+    },
+    {
+      "path": "en/articles/zhengyi-luo-phc/index.html",
+      "sha256": "61141b15e77fa953959aadde76126d0b0b46e51e75d63f62649b5f22d9c0acb3",
+      "size": 48848
+    },
+    {
+      "path": "en/articles/zhongyu-li-legged-control/index.html",
+      "sha256": "c03f8e8c99482d535a080a7b8e6edf4b1a2a866f809d3ce7206668506e57b1f0",
+      "size": 54925
+    },
+    {
+      "path": "en/index.html",
+      "sha256": "b87a782bbdbd4a0a4e8bcf6ae1a2cc248d814c4e484dd1921e79ec01c4a52f8a",
+      "size": 79713
+    },
+    {
+      "path": "en/series/human-data/index.html",
+      "sha256": "b742aa386cec0a6226da8fb4caf7d87e2acb0d62ae84d4353b376d1a401938a5",
+      "size": 16788
+    },
+    {
+      "path": "en/series/industry-dialogues/index.html",
+      "sha256": "592833cb0e08753949dc5ae71c09e805a60dd70acf132458d2780c4847085dd6",
+      "size": 8273
+    },
+    {
+      "path": "en/series/open-source-hardware/index.html",
+      "sha256": "141b34554335606741b8e2843b3d1cf3edc35b5cf21adca91748649044d37a81",
+      "size": 5010
+    },
+    {
+      "path": "en/series/research-maps/index.html",
+      "sha256": "1bf63dd56939d4a481c18a9120bd33c9d1d013292992c1b0c6f2ea2c485679b3",
+      "size": 5764
+    },
+    {
+      "path": "en/series/rl-simulation/index.html",
+      "sha256": "2f4b4f56cfcbb22802174c387d3860a24b9351eb910fa0946572261a55db9191",
+      "size": 11663
+    },
+    {
+      "path": "en/series/robot-data/index.html",
+      "sha256": "5dafbb2dced691dcbc1cca91712bb427273c5dd9b4619d6ea09ee9feb8de63e8",
+      "size": 15187
+    },
+    {
+      "path": "en/series/robot-learning/index.html",
+      "sha256": "ae7670f676721c932efa5414aeba86fbad2ba867b032e16c690d8388c0ddccae",
+      "size": 18712
+    },
+    {
+      "path": "en/series/robotics-history/index.html",
+      "sha256": "b102982c0aa9cdd1b75f35bbe51535a187e2e43998cefbd6fb0a55411c4b148e",
+      "size": 4991
+    },
+    {
+      "path": "en/series/sensing-manipulation/index.html",
+      "sha256": "fe9bb54f51f82d90847b6561aa1e3ee828c3d58160e41f8f4f97f526d89dd235",
+      "size": 6437
+    },
+    {
+      "path": "en/series/whole-body-control/index.html",
+      "sha256": "6c7735acc96597c121f9f904b1fa6481275131fe0b39abf20725c6d45471b609",
+      "size": 8400
+    },
+    {
+      "path": "en/series/world-models/index.html",
+      "sha256": "0322c15ac565f6f5d90dd0eda87c093da322d046892dc12d9c033f58c3b4f777",
+      "size": 9990
+    },
+    {
+      "path": "images/ai-robotics-researcher-map/01.webp",
+      "sha256": "0d059bafd666771bcaca31bc3d62793ac184e2fa6f68a45a0eb48f81d37f727a",
+      "size": 92742
+    },
+    {
+      "path": "images/ai-robotics-researcher-map/02.webp",
+      "sha256": "eaeecdedac1511933e3d4ef11e047f42c053baabbbd9a4e56d80b39bf6159bf5",
+      "size": 160178
+    },
+    {
+      "path": "images/ai-robotics-researcher-map/03.webp",
+      "sha256": "0133b357be5cba7bcac9c6c8efcb51d61f02eb733962a0eb7b6824135169c377",
+      "size": 24956
+    },
+    {
+      "path": "images/ai-robotics-researcher-map/05.webp",
+      "sha256": "0b7b6234e6338ddf2f90caccd50b4b824bccbbbbf3c1b36447ef0708a2e4007f",
+      "size": 221354
+    },
+    {
+      "path": "images/ai-robotics-researcher-map/07.webp",
+      "sha256": "b7e6bccedf257c3d337849ec54fbd5442c9af2c7d27508ee4ad20194eb9a8dda",
+      "size": 50788
+    },
+    {
+      "path": "images/ai-robotics-researcher-map/14.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/can-large-models-enable-general-robots/01.webp",
+      "sha256": "efc265c555f1af5663291d96086226e5cc0da68ae187987b4ae2b68258a3d34c",
+      "size": 177354
+    },
+    {
+      "path": "images/can-large-models-enable-general-robots/04.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/covariant-rfm1-peter-chen/01.webp",
+      "sha256": "52b10879523f474d253145714f44bb7f6ae34fef7f633f9c08e4b326120ebdb0",
+      "size": 558702
+    },
+    {
+      "path": "images/covariant-rfm1-peter-chen/05.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/covers/a-century-of-robotics-ep01.webp",
+      "sha256": "9f29df3ec0f13e57678ede672c520774abf681b35c20141a45ee3c9ac57e09cd",
+      "size": 21546
+    },
+    {
+      "path": "images/covers/ai-robotics-researcher-map.webp",
+      "sha256": "66b0b7b5c9e43ec5d1ea4d495c1c247ee40315120b080c1aee582bec6614ec94",
+      "size": 18528
+    },
+    {
+      "path": "images/covers/can-large-models-enable-general-robots.webp",
+      "sha256": "3dbd107a5caa130fb1ead15ce24710a14cb21f8a0c15b6aac3db66f8e97ba634",
+      "size": 230462
+    },
+    {
+      "path": "images/covers/cewu-lu-noematrix.webp",
+      "sha256": "d1b0b9f76e524bcab678b0f62f8609ef46269c5c8e4fd0d8026b84639bd008ef",
+      "size": 172214
+    },
+    {
+      "path": "images/covers/covariant-rfm1-peter-chen.webp",
+      "sha256": "4b0e9bae9ec71d0d374c545c2310ef1e81497c03bd6f5e25842ee89831e409c1",
+      "size": 132994
+    },
+    {
+      "path": "images/covers/dexterous-manipulation-research-review.webp",
+      "sha256": "c56a6465b90b2394a1eb9070f935e6165cbd3294747af094da3acc1b00c716be",
+      "size": 359348
+    },
+    {
+      "path": "images/covers/diffusion-policy.webp",
+      "sha256": "315dc0bef0b689f14dc567d6e4c4a6febbf7b5b2b0882bc451fc751a7e588a1f",
+      "size": 443270
+    },
+    {
+      "path": "images/covers/dp3-idp3-3d-diffusion-policy.webp",
+      "sha256": "b3a76d9b957c0a3ce8e5c0f34fe5e219afca4ed2f9396e9bf5db12c4fb68bf44",
+      "size": 23218
+    },
+    {
+      "path": "images/covers/embodied-ai-super-dialogue.webp",
+      "sha256": "7be554f6aa996663b90f5d0a620b05f9a0177ec741b37fca9e37b1cba63ee23b",
+      "size": 410602
+    },
+    {
+      "path": "images/covers/foundation-stereo-bowen-wen.webp",
+      "sha256": "a55ab79a4816da72ef48830c8ce1f62e171ad7f976b61a2880c0d78c8fa8ee65",
+      "size": 18454
+    },
+    {
+      "path": "images/covers/gelsight-fifteen-years.webp",
+      "sha256": "270e0d974831807cb3d042154b454a27cf187e7e11402121fca189819bda7dc4",
+      "size": 21920
+    },
+    {
+      "path": "images/covers/gendp-3d-dynamic-semantics.webp",
+      "sha256": "0f96dfbe90d2caaf23a58ea02818d09194e4ef973a4928f199f2f0b0acccd2e9",
+      "size": 32440
+    },
+    {
+      "path": "images/covers/genesis-physics-engine.webp",
+      "sha256": "ccfa093fc6c873ba7af042e63706c2d1881cf26606a498102582451ab6fad056",
+      "size": 37320
+    },
+    {
+      "path": "images/covers/human-data-danfei-xu.webp",
+      "sha256": "4de7257423a7406e5eff081a0f30bc339c47ad6defff41ba4526fd0882fe98f1",
+      "size": 24358
+    },
+    {
+      "path": "images/covers/human-data-ep01-twist.webp",
+      "sha256": "3660aa886c993cedfae9daf7d68bcd6624608106b00c9fda07008e6eda10049e",
+      "size": 11870
+    },
+    {
+      "path": "images/covers/human-data-ep02-gmt.webp",
+      "sha256": "2c197c1cb7511d98bae92fb364beb1cfac16f718642e187c044d3f3d461f9454",
+      "size": 11038
+    },
+    {
+      "path": "images/covers/human-data-ep03-exbody2.webp",
+      "sha256": "5744ba4780d4ae906479fb3c7fab3bb937de6efca77a27762201754f25aeabbd",
+      "size": 13486
+    },
+    {
+      "path": "images/covers/human-data-ep04-videomimic.webp",
+      "sha256": "ffc8c6d51de3b78692fcc42f8c22699daf37a6d0a4c1925e271291b1067298d4",
+      "size": 14146
+    },
+    {
+      "path": "images/covers/human-data-ep05-hub.webp",
+      "sha256": "f9a278e1a180ba19a81d3fe1cf664b10ca8e4e44e606bc88dbb40a4f8086023c",
+      "size": 10610
+    },
+    {
+      "path": "images/covers/human-data-ep06-gae.webp",
+      "sha256": "b1aab8cbd9d46699a6fa34016f6dc085040d71d91edfb544df937ec0b7ed99e5",
+      "size": 13032
+    },
+    {
+      "path": "images/covers/human-data-ep07-twist2.webp",
+      "sha256": "bf34fb997696aee4c6dea064b20a095504e77efb7d86db53d724b3ff2188f926",
+      "size": 11744
+    },
+    {
+      "path": "images/covers/human-data-ep08-omniretarget.webp",
+      "sha256": "290930a1a3148a25b20cfce7b6514f0056028f912827ff0301796bc298a5dad1",
+      "size": 17480
+    },
+    {
+      "path": "images/covers/human-data-noitom-lei-han.webp",
+      "sha256": "7edac7d0ec98d727815c5b79ffd66e674d611dd7dbd95cf566f8fad839168862",
+      "size": 19144
+    },
+    {
+      "path": "images/covers/human-data-noitom-ruoli-dai.webp",
+      "sha256": "565031e9602811f36073691a11b2713848f402e7cf3db9424966268effca6deb",
+      "size": 20222
+    },
+    {
+      "path": "images/covers/human-data-series-summary.webp",
+      "sha256": "4326e6f53e4766795ffb0d1d17f3151171c5431761757a58540cf7c1421d9925",
+      "size": 26838
+    },
+    {
+      "path": "images/covers/jason-peng-general-controller.webp",
+      "sha256": "5db78e34afe265a27235c627d38a68db8388cbfde56f48bea53b8c24ced7b020",
+      "size": 35474
+    },
+    {
+      "path": "images/covers/jianlan-luo-real-world-rl.webp",
+      "sha256": "bf2fa9811ad01b513b3d41383ada8d3b1cf5609bdba8000fd5e37e6ca66ff1fe",
+      "size": 53306
+    },
+    {
+      "path": "images/covers/lai-jie-astribot.webp",
+      "sha256": "eec55289ffcacb900ee64716d484d56007afd745db29ca91df46d2c795594177",
+      "size": 288186
+    },
+    {
+      "path": "images/covers/legged-robotics-research-landscape.webp",
+      "sha256": "d7be62237face94f0baac01499bb8943899e0b1e80a71bd5e92059a45cb99cc3",
+      "size": 334032
+    },
+    {
+      "path": "images/covers/modalitynet-human-to-robot-data.webp",
+      "sha256": "68a6b8d9d0495a68826e877a57c370bdf026d3d7ea5c4b3029cf00bc03775258",
+      "size": 15528
+    },
+    {
+      "path": "images/covers/osh-ep01-toddlerbot.webp",
+      "sha256": "2a078ca5cb7e37444e5894567aed9e782f5136bc579924a0e20112a339eca992",
+      "size": 31210
+    },
+    {
+      "path": "images/covers/reinforcement-learning-for-language-models.webp",
+      "sha256": "2369c9479a37d7823c19c7fd452cb2763246835e38870cc5e9c1ea575d134af3",
+      "size": 72064
+    },
+    {
+      "path": "images/covers/rfm-ep01-pi-pi0.webp",
+      "sha256": "05a22e6579cecfd52208030f878a9b41906a27839356493d5e5e83053ac4f494",
+      "size": 109104
+    },
+    {
+      "path": "images/covers/rfm-ep02-octo.webp",
+      "sha256": "fffc247e0025a1833878ad55ea6db74adfb8a434642003f9f5880a81409e1e27",
+      "size": 225084
+    },
+    {
+      "path": "images/covers/rfm-ep03-rdt.webp",
+      "sha256": "e7028494e5155f3e81f85c270d796ed2cd637bc210e98ae9b8ab31ac5e4e8f8c",
+      "size": 113030
+    },
+    {
+      "path": "images/covers/rfm-ep04-pi0-helix-go1.webp",
+      "sha256": "af2f942749fa3b7dca3b573c69999d074107f7cd1a3ea82c9d361574f7cb129f",
+      "size": 24578
+    },
+    {
+      "path": "images/covers/rfm-ep05-hi-robot.webp",
+      "sha256": "3d2b4c2dcda22c66388cb7803dd365840635c48fc9ff9f5c9c15bec547ca367f",
+      "size": 28232
+    },
+    {
+      "path": "images/covers/robot-data-ep01-atm.webp",
+      "sha256": "ada1370a9d3691ae21a7eecc92fbc8ecc66a5bd24afd29a9d13e754a7f84aa61",
+      "size": 23788
+    },
+    {
+      "path": "images/covers/robot-data-ep02-umi.webp",
+      "sha256": "ad06b15aa1388be39a72433fae8b5a993a192f9c639bd9022b267dad59526a35",
+      "size": 25790
+    },
+    {
+      "path": "images/covers/robot-data-ep04-mimicplay-dexcap.webp",
+      "sha256": "4fed9e12a4d2c0552d7e139cbf8235f3b87b91005ba472fadc95d6c2487993e9",
+      "size": 29134
+    },
+    {
+      "path": "images/covers/robot-data-ep05-humanplus-mobile-aloha.webp",
+      "sha256": "e912e32680d4d9eb82e9a5707de99f52296211f496582c10c01734b9c3427243",
+      "size": 30696
+    },
+    {
+      "path": "images/covers/robot-data-ep06-eureka-dreureka.webp",
+      "sha256": "91aa7d6e9adf9fe4dd89f4bb2468a61ff52898820888084b4e43dfab5cfb63c2",
+      "size": 28494
+    },
+    {
+      "path": "images/covers/robot-data-ep07-parkour-driving.webp",
+      "sha256": "971bd8b1612d2021855e135df595089e47860c67eb800234d5551cf455575dde",
+      "size": 30394
+    },
+    {
+      "path": "images/covers/robot-data-ep08-robogen.webp",
+      "sha256": "91c6770974f139b032acf9e61c662100a77ba74df180f6df94578a2ae8d7f375",
+      "size": 25324
+    },
+    {
+      "path": "images/covers/robot-data-ep09-heterogeneous-data.webp",
+      "sha256": "2c8050fffdcc2afc4dad5f8ccd1ece0c2f67fc7b8c40ef41357fcbc28bec23a4",
+      "size": 26320
+    },
+    {
+      "path": "images/covers/robot-data-ep10-summary.webp",
+      "sha256": "1124d72164e1bb80b28cb209b994bcb35818c70c592c3dfc0f3a0188f9e603d2",
+      "size": 24262
+    },
+    {
+      "path": "images/covers/robot-data-open-television.webp",
+      "sha256": "2bdc826b023fb92cd4bbbec7f187420d76177c1bcf1c2915b917a40abb05e127",
+      "size": 27070
+    },
+    {
+      "path": "images/covers/robot-reinforcement-learning.webp",
+      "sha256": "69b7e98543d544f4f8a48e21cf82008b521f3fcab63eb08dfa74acddc8d7a9b4",
+      "size": 25958
+    },
+    {
+      "path": "images/covers/robot-simulators-landscape.webp",
+      "sha256": "6a257ecc20c62c0d24623a79ac47361888b4295945dd4bbac0cc828f005d1c7f",
+      "size": 648880
+    },
+    {
+      "path": "images/covers/simulately-interview.webp",
+      "sha256": "d8617e31115c1703114cade13d1632628d425eb72600f902f324e998958c1770",
+      "size": 225798
+    },
+    {
+      "path": "images/covers/sonic-zhengyi-luo.webp",
+      "sha256": "3a4dc6b7c804dab46714a5c2b6a346ca6d4c035e77742b85d2819f37d0180207",
+      "size": 15370
+    },
+    {
+      "path": "images/covers/vggt-jianyuan-wang.webp",
+      "sha256": "b3600461d647a33bbeaf1b953624852a9430f69dfc454706d75d7fb0c3dc65f5",
+      "size": 23736
+    },
+    {
+      "path": "images/covers/voxposer-rekep.webp",
+      "sha256": "888e5f2dfb83863b19af8f6b887c73d2c855e69f90727c4faa580f7e72cb5d12",
+      "size": 22668
+    },
+    {
+      "path": "images/covers/world-models-ep01-dreamzero-dreamdojo.webp",
+      "sha256": "2799d68c5617c8e2dd552aaff6853c992d39f8242fc2c105204a1a47fc1a6821",
+      "size": 29500
+    },
+    {
+      "path": "images/covers/world-models-ep02-interactive-world-simulator.webp",
+      "sha256": "f5fa05f523bf2e1d63324ba6c59ad95f13015566acdc6e74270550f7a0482834",
+      "size": 30346
+    },
+    {
+      "path": "images/covers/world-models-ep03-robotic-world-model.webp",
+      "sha256": "5b21a89b5b424c3680450bc434bc2dafeeecadcfbc08156453fe7f4dec059d4e",
+      "size": 26696
+    },
+    {
+      "path": "images/covers/world-models-ep04-motus.webp",
+      "sha256": "e7f7bba1a73f0b92245a4f67b1e05552e04d84670024584ca942b1dc9625bc33",
+      "size": 29236
+    },
+    {
+      "path": "images/covers/world-models-ep05-pointworld.webp",
+      "sha256": "052652dd36e1fde32e2ae6121470086557f9a94039a950e5e2c2752c8db2a3f3",
+      "size": 24360
+    },
+    {
+      "path": "images/covers/world-models-ep06-vpp.webp",
+      "sha256": "10801ec1af0937467cb0c10e19bf476c500bf80a0ffa6a004b605a08c2274e13",
+      "size": 33178
+    },
+    {
+      "path": "images/covers/yilun-du-ebm-video-generation.webp",
+      "sha256": "171f59ab0e264c3cd24e2e4da68bd0f177663b0912113330d6aaef98070bf6d7",
+      "size": 25718
+    },
+    {
+      "path": "images/covers/yunzhu-li-learned-dynamics.webp",
+      "sha256": "1ce068532e4d1dc4fd536c0d23828f266261983ddd85a67941241d20126cba11",
+      "size": 28640
+    },
+    {
+      "path": "images/covers/zhe-chen-ai-robotics.webp",
+      "sha256": "aec0955ddcdd3958c1db481bec2747f7c28492ce4d3adde5f4c4206120e84943",
+      "size": 39348
+    },
+    {
+      "path": "images/covers/zhengyi-luo-phc.webp",
+      "sha256": "58e4db081d272a3345dd048c2a539044fc78ddac08eceeae310446d37c9c5648",
+      "size": 28076
+    },
+    {
+      "path": "images/covers/zhongyu-li-legged-control.webp",
+      "sha256": "ab77f3da2c42902a3ebc824be010adc509108166aeb55274d44a13e4cc2e85ab",
+      "size": 38504
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/01.webp",
+      "sha256": "17b271d8a29f0441f629fdb7cc12b716e8e06128ceefd8fd2d18fce368470d0e",
+      "size": 69710
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/02.webp",
+      "sha256": "af62fe581fc2196e2c3e92b2ae11bc405a2d0d54763366c05ed88c873236784a",
+      "size": 376990
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/03.webp",
+      "sha256": "521856ca0e72f22dff478ec657eb7be2cdccc52496723816c1e20a2d02bc54d3",
+      "size": 172772
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/04.webp",
+      "sha256": "6f66dc4bde842c2c74c66f4d7758941f2eaa9c472f0cae0c07f54b22d7483e17",
+      "size": 181504
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/05.webp",
+      "sha256": "83c2bbdaca3be7fe497f5d9c7fcd5e7df020c4cde9dcd0e083608123ab03bddc",
+      "size": 179446
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/07.webp",
+      "sha256": "ffb924cd56c36b040485e05839fb44a56b077a823dfceca42bb468a60fc01c9c",
+      "size": 1603270
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/08.webp",
+      "sha256": "cec75b4276997d32ab4817706a5610f6700787c50ae91e0252f9d3a90c556a6c",
+      "size": 9076782
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/10.webp",
+      "sha256": "edded295f76ba6fa51184586431ef5262576f00c400bdac1e8da9f024efa2a6d",
+      "size": 4184258
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/11.webp",
+      "sha256": "95bd47b2168cf1e8d03da306abc2e9c4fdf2ce366a4c382304126b1279ecf075",
+      "size": 4025672
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/12.webp",
+      "sha256": "69d714c3d8f922dd79cf77e8f988cb3675bb7aad50a71327fb7cca79ef5d33a1",
+      "size": 4538256
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/13.webp",
+      "sha256": "a84fb18e6c0eddafc978ba53128e60620e8637b96a824ea739448c7085e0d58b",
+      "size": 1940628
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/17.webp",
+      "sha256": "1d8a7e2ae3e26cc1e698b98b5f0b40180d5afed616763d7193cbfa82641b4b1a",
+      "size": 1383302
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/18.webp",
+      "sha256": "495d20bf59c3e13fde360c8937f67887308ae4ed8df626527caf6e15c627f31a",
+      "size": 1720986
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/20.webp",
+      "sha256": "3e60aeb9493083834a0aa08e57e92ecf6387af830726b373823e65390bb478ef",
+      "size": 1677114
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/22.webp",
+      "sha256": "bb864ad289dc3ac964c7856114a6546a4b0bcd4fc226d83dcb4e89b2ab8a38ad",
+      "size": 2138182
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/23.webp",
+      "sha256": "c1672481e9a2d287ce9740115a0da83c229ce028528529ea737d5fa3bdb891d1",
+      "size": 3537036
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/24.webp",
+      "sha256": "bc0b6fb03c55a0d7a941df7dcb8d7899a88e41727b5de66745dfe078ddedde2e",
+      "size": 1712200
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/25.webp",
+      "sha256": "f068c325c00fe0fe9f53ea29802cc6f0abfbf9c26b8e14a990582d57240be65b",
+      "size": 4554324
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/26.webp",
+      "sha256": "731a8077999f1a46db4c01a2262d12cdb790ba83d350dfdc362a91653d47326d",
+      "size": 2134170
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/27.webp",
+      "sha256": "deac68e58f0877f4df0d15e4bba3ab60dba0a6c6c74a424a01a5cef182e565c7",
+      "size": 2869700
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/28.webp",
+      "sha256": "5648444d6f9572fab314d9dca4ee82d8b206cb425d6283de51e094916da43dec",
+      "size": 2871682
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/32.webp",
+      "sha256": "c5db6570d12463ad7f738793ca89e5598a24e05a67e0207bd7eff6b4e5b8d146",
+      "size": 1051564
+    },
+    {
+      "path": "images/dexterous-manipulation-research-review/34.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/diffusion-policy/04.webp",
+      "sha256": "f18f3638c0e30161d59244c59c0d497976a92da34465244e3e0e8e48ef6bf7a6",
+      "size": 211376
+    },
+    {
+      "path": "images/diffusion-policy/07.webp",
+      "sha256": "6dbec4e9e6d61e7cc72b9e66c6f608cf3168a12b9fd527acd50c0cdcaf917e34",
+      "size": 145112
+    },
+    {
+      "path": "images/diffusion-policy/09.webp",
+      "sha256": "14b0fc94ddd3fa8f6101dfc5d782a024ba1b168840a02aab8f6e6f8c445b40f2",
+      "size": 334300
+    },
+    {
+      "path": "images/diffusion-policy/10.webp",
+      "sha256": "a4ba562757dae483547ccea7a655cf8a50f5f495d959bde48ee7fedd20488030",
+      "size": 135610
+    },
+    {
+      "path": "images/diffusion-policy/11.webp",
+      "sha256": "a40a2df8bf804fb9725b97b4f796de83fa9362e40c73dc9a9cb9d0a371149ce1",
+      "size": 270478
+    },
+    {
+      "path": "images/diffusion-policy/12.webp",
+      "sha256": "1490476dbaaec7f54076a4e611ee9e7b038200245d162b8cf2b6d3fb263a0435",
+      "size": 217760
+    },
+    {
+      "path": "images/diffusion-policy/13.webp",
+      "sha256": "3a0b1809ced650406dc3278190c593bb385c76bd76744e32cd956e413a7efce7",
+      "size": 216064
+    },
+    {
+      "path": "images/diffusion-policy/15.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/embodied-ai-super-dialogue/03.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/foundation-stereo-bowen-wen/01.webp",
+      "sha256": "f421a17342b3ef28e72b372cf97459ea542a1db764e4dec907279f9fa9eab662",
+      "size": 330336
+    },
+    {
+      "path": "images/foundation-stereo-bowen-wen/02.webp",
+      "sha256": "c87e155335bfc6a32f018e7cc9c5d375f61fde72dd7977feed61db879d09c4a9",
+      "size": 139874
+    },
+    {
+      "path": "images/foundation-stereo-bowen-wen/03.webp",
+      "sha256": "07d0326ec7ef3aee64d962c5c09c492186547d22c9fe8278920e8af944ccf248",
+      "size": 177774
+    },
+    {
+      "path": "images/foundation-stereo-bowen-wen/04.jpg",
+      "sha256": "eb6743ad64010b78c096c09d695ab5940263b47e2417dc5cb017af7a6c7efdfb",
+      "size": 25389
+    },
+    {
+      "path": "images/foundation-stereo-bowen-wen/05.webp",
+      "sha256": "8f44417365a2e82c959e21948916c552bc0bee90320a7bc7ad504e22468bd867",
+      "size": 259968
+    },
+    {
+      "path": "images/gelsight-fifteen-years/01.webp",
+      "sha256": "e42ade5b8d36dcd109b1149bc5870dcf3095642c1f6bb7f275d702aa65615991",
+      "size": 162980
+    },
+    {
+      "path": "images/gelsight-fifteen-years/04.webp",
+      "sha256": "60917af9dc9839bbabfbc06f3836e0c7a1a720821217b2af4c3fcbf8bf025a1d",
+      "size": 283518
+    },
+    {
+      "path": "images/gelsight-fifteen-years/05.webp",
+      "sha256": "b0ed722c67cdf6e68929cde808afe06397cba9eef87581d6daf5790651986b09",
+      "size": 105590
+    },
+    {
+      "path": "images/gelsight-fifteen-years/09.webp",
+      "sha256": "e2f4818417127b4f92058b8d408d17d292df8b7eb63109c262dc87a61c10817c",
+      "size": 206686
+    },
+    {
+      "path": "images/gelsight-fifteen-years/13.webp",
+      "sha256": "a3eeaade360956956e9b0c575975704aa453fc2d18a89199ab2ed05542fc4585",
+      "size": 80410
+    },
+    {
+      "path": "images/gelsight-fifteen-years/15.webp",
+      "sha256": "1beb704870ff8c5132624e1a84736518936dee43c6de87c1d2646952c82ff963",
+      "size": 334054
+    },
+    {
+      "path": "images/gelsight-fifteen-years/16.webp",
+      "sha256": "5eb7b14f49bf56e6593a7166ac7c747263d94e69897282d0c9c73d702825f37c",
+      "size": 537118
+    },
+    {
+      "path": "images/gelsight-fifteen-years/17.webp",
+      "sha256": "69405826c4f3447ec5ae8c0ae51e8660ca698c1c2f62a063e407a59a64eb7455",
+      "size": 243734
+    },
+    {
+      "path": "images/gelsight-fifteen-years/21.webp",
+      "sha256": "6c0968559d43d1baa34e34b4d521b9c24960ba088a5bec630e28ce558bdcb625",
+      "size": 276876
+    },
+    {
+      "path": "images/gelsight-fifteen-years/26.webp",
+      "sha256": "da68a918d533b97059033ca83aeabe60039fec02e0867cce7d885dc798315c3d",
+      "size": 97858
+    },
+    {
+      "path": "images/gelsight-fifteen-years/27.webp",
+      "sha256": "de46e7bd0d9f0b745f282fd53d360fd0b625445b4c24a5c00216cd52ae42eabc",
+      "size": 4789144
+    },
+    {
+      "path": "images/gelsight-fifteen-years/28.webp",
+      "sha256": "8b1ebe0dc1d6970a03ca69dd7e43f0b9ce2ccc976d73be337ae42e6f7efac8d5",
+      "size": 299610
+    },
+    {
+      "path": "images/gelsight-fifteen-years/29.webp",
+      "sha256": "c664e1b29e368afc1cd656161557359144da2d239bbd9f2b17888ade17e0feb4",
+      "size": 953900
+    },
+    {
+      "path": "images/gelsight-fifteen-years/30.webp",
+      "sha256": "a52c2efd96bb0ae4ae888681b5901a1c3fc60428985d3fcb051055e234a9cd44",
+      "size": 257080
+    },
+    {
+      "path": "images/gelsight-fifteen-years/33.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/gendp-3d-dynamic-semantics/01.jpg",
+      "sha256": "eeea047dd2b8198a0768b747b7a6a96763c375f0551d64bc200be11d8184eb83",
+      "size": 105053
+    },
+    {
+      "path": "images/gendp-3d-dynamic-semantics/02.jpg",
+      "sha256": "cc9a9251df8f43839dd7c0814ad8fbe1c432a900ddef38027c30563332a46785",
+      "size": 124599
+    },
+    {
+      "path": "images/genesis-physics-engine/01.jpg",
+      "sha256": "090c8df825a47ffee5f47ea5376d00c88eeb43ab690bf101123407ce02bcc235",
+      "size": 13926
+    },
+    {
+      "path": "images/genesis-physics-engine/02.webp",
+      "sha256": "a4c4345f75063973299892edb31aff83632d912bbf59777d734ea326affff497",
+      "size": 209602
+    },
+    {
+      "path": "images/genesis-physics-engine/03.webp",
+      "sha256": "e373a58574c6fdd0bbb7b7e0e563de0167c8771dc864673149baa0b2c7feb19c",
+      "size": 145286
+    },
+    {
+      "path": "images/genesis-physics-engine/04.jpg",
+      "sha256": "b173e0c049f78166fe74bf4aa4ce7673695b78adb2bb593fe246d4ad245afa6e",
+      "size": 63234
+    },
+    {
+      "path": "images/genesis-physics-engine/05.jpg",
+      "sha256": "f8c3a65a44d9c25656c40f790b2f62293c28393384ad8d2d9de2371bc9f2574e",
+      "size": 45422
+    },
+    {
+      "path": "images/genesis-physics-engine/06.jpg",
+      "sha256": "0d258758561825290b6f8b2e7c249bdce759b70d21596af74effc992739d7e35",
+      "size": 30549
+    },
+    {
+      "path": "images/genesis-physics-engine/07.jpg",
+      "sha256": "4a0fb24e38fee088958c0d22c82dd4486e2841cae6fde7dfb952a728865ca1f5",
+      "size": 44571
+    },
+    {
+      "path": "images/genesis-physics-engine/08.jpg",
+      "sha256": "a2dbd32a2d6b5fe0c3482f09044784da68582f5412f15623aaa84f935a622f5a",
+      "size": 43070
+    },
+    {
+      "path": "images/genesis-physics-engine/09.jpg",
+      "sha256": "5ab814e9c185ffcc6bbcd4572752f5fcbd66b14d561160c16b37e142ad669715",
+      "size": 5603
+    },
+    {
+      "path": "images/genesis-physics-engine/10.jpg",
+      "sha256": "67f848102f84721f315b0fe6de2a2eb1ae5fa7c4fd202a74876561cb74610f40",
+      "size": 62351
+    },
+    {
+      "path": "images/genesis-physics-engine/12.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/human-data-ep01-twist/01.jpg",
+      "sha256": "7434b39f7443b745455ce5b8441b75cbdf50be29cc834c1d9b8c38534bf7c28e",
+      "size": 27937
+    },
+    {
+      "path": "images/human-data-ep01-twist/02.webp",
+      "sha256": "07a22324426f51478d56c00672a45da739da935fd596136bf6df3df58de272a1",
+      "size": 119420
+    },
+    {
+      "path": "images/human-data-ep02-gmt/02.jpg",
+      "sha256": "a8ae72391430dd2f8e387e8d0d8c5788b2ae1fae742de2b48d4517609863a0ed",
+      "size": 27487
+    },
+    {
+      "path": "images/human-data-ep02-gmt/03.webp",
+      "sha256": "18b63839886b851dbbe4ac08808230054971ba16335e367bfeff7f5dbfe1967f",
+      "size": 138718
+    },
+    {
+      "path": "images/human-data-ep02-gmt/04.webp",
+      "sha256": "b48d5b44c6f06db3a61f865eadf228cf11d20bd642e9d0a7f0aede0f3b4ddb25",
+      "size": 42520
+    },
+    {
+      "path": "images/human-data-ep03-exbody2/01.jpg",
+      "sha256": "0335e48e3d896114352cea24a32da0fdc30ebcfd2310ea4d0600a338c5d97b61",
+      "size": 22840
+    },
+    {
+      "path": "images/human-data-ep03-exbody2/02.webp",
+      "sha256": "5a13a4476187fcf5df83a3bcbfdbbd9e543daf5cd2f61ca58cdbbfef2ff3673f",
+      "size": 259984
+    },
+    {
+      "path": "images/human-data-ep04-videomimic/01.jpg",
+      "sha256": "0ecd6a7a04f96821a0c61fb2cdc6cd5e0cb29f629191317d56478e27e3f1d52b",
+      "size": 54553
+    },
+    {
+      "path": "images/human-data-ep04-videomimic/02.webp",
+      "sha256": "7fcaba81f205910a49f27630c517675b8bb5ccd686be53bac1c9c538734afb33",
+      "size": 172004
+    },
+    {
+      "path": "images/human-data-ep05-hub/01.jpg",
+      "sha256": "3cd94272ce7a0ab6b54f3bc767267a601f58e11d6616e61c2199dfdf071c4820",
+      "size": 32645
+    },
+    {
+      "path": "images/human-data-ep05-hub/02.webp",
+      "sha256": "81ac48a4cf9810e187b5627a6c91674e0c6e8d090ff0038c5eb37ef034d3b8a1",
+      "size": 216970
+    },
+    {
+      "path": "images/human-data-ep06-gae/01.jpg",
+      "sha256": "9114984b148379c6acf96f03676b27e2225726c4f5b6d81dedcc0ce06a817dca",
+      "size": 19750
+    },
+    {
+      "path": "images/human-data-ep06-gae/02.jpg",
+      "sha256": "2e761e67bcd883a2c45bcee507c9cea875468eae5ee512c68ae989b3fe2ac3ca",
+      "size": 42684
+    },
+    {
+      "path": "images/human-data-ep07-twist2/01.webp",
+      "sha256": "ee386a070c49ed959a73967a828049e3f039c11d43d2ebba454ff372edc406d8",
+      "size": 262360
+    },
+    {
+      "path": "images/human-data-ep07-twist2/02.webp",
+      "sha256": "101019121c67be7b5b1f6952bc7aed17d211a4b53fb7508df01aa98b7efbd341",
+      "size": 94848
+    },
+    {
+      "path": "images/human-data-ep07-twist2/03.webp",
+      "sha256": "4a90626ec8bfe36fc13103b517fb2cf664631b31a466bf1ca0d801f37984e3f8",
+      "size": 70198
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/01.jpg",
+      "sha256": "363612ed9e882d11d5441005c0811537883c0dec6d6d7ab0fda48c2264ea7b00",
+      "size": 32496
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/02.jpg",
+      "sha256": "ac30d7341c75958d671db44d9e37cd31501a213740e80a96d881506b024d5760",
+      "size": 3652
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/03.webp",
+      "sha256": "380648f025435515e71d674e341150a1cab7efcb2dff6306d73f344976a24067",
+      "size": 59890
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/04.webp",
+      "sha256": "941ab57f5257f24940c28e5e806a21bd6a2514e57b81911fe21f93eb34a409d3",
+      "size": 57914
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/05.webp",
+      "sha256": "979e2bcd2881953e967015bfa9184f16459d8f0beed70c53f43b42b83afd73f5",
+      "size": 165992
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/06.webp",
+      "sha256": "92fe74cb498e332f05be000a5c5dde991013f32723f3d6b7a055bf67b0c2eae3",
+      "size": 204192
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/07.webp",
+      "sha256": "3fd3bd384682d61e723ef0edb4d4119c431175cc615a2618a7eb44b5a3216a92",
+      "size": 16148
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/08.webp",
+      "sha256": "508db504f3c9905225304cf4cc9f669d359f2f1a4dff1b32787e292dde469935",
+      "size": 411292
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/09.jpg",
+      "sha256": "e87c0dbde094482a20b79428dad27aa7a264066d59fe4132be6f40c1590bf46f",
+      "size": 19559
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/10.webp",
+      "sha256": "6dcc7f921759c2c2ee0c3202047066aa7e59246d09eee75620eb102a7b393619",
+      "size": 278938
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/11.jpg",
+      "sha256": "8e9f7952ade6f87186164e9031fb9f1ce64b862f3ae2666eb4c5939e671bfafe",
+      "size": 21175
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/12.webp",
+      "sha256": "254efd6b95c1c33668383b6098203c60205c3fede6aef8e7230ba18cf5cb0ede",
+      "size": 68324
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/13.webp",
+      "sha256": "4e85e42df4b345800086b17707948855995458e87d72a8390228327f68f3e6c6",
+      "size": 138280
+    },
+    {
+      "path": "images/human-data-ep08-omniretarget/14.webp",
+      "sha256": "a3fcc17445bdb8be50e21f9cd3173096b00b46ff1d06f9e2585f528a99dd6a14",
+      "size": 192932
+    },
+    {
+      "path": "images/human-data-noitom-lei-han/01.webp",
+      "sha256": "93e5b80cdd6427899bacfc3911645001b657bebeaa93b54d6948a18e1e85f287",
+      "size": 37662
+    },
+    {
+      "path": "images/human-data-series-summary/01.webp",
+      "sha256": "c9ea56758bfaa8ab6cb685f3e5664219c394b16df7b1c58b503d86a3e23ae313",
+      "size": 47762
+    },
+    {
+      "path": "images/jason-peng-general-controller/01.jpg",
+      "sha256": "f309883c1e3fe06ed93057169ecca9d2eec3f4fd80730d40bcbc49ed107967c0",
+      "size": 36018
+    },
+    {
+      "path": "images/jason-peng-general-controller/02.jpg",
+      "sha256": "8b54bb58fb334e903045c333a980e8e6624f3ee4b12063d2f5812570bebdcce0",
+      "size": 38933
+    },
+    {
+      "path": "images/jason-peng-general-controller/03.jpg",
+      "sha256": "6ac3f9b562a617f8e5f6e6af7be83c011b3cc3645589876b32e6897f24781f11",
+      "size": 50221
+    },
+    {
+      "path": "images/jianming-portrait.png",
+      "sha256": "1811afb7b90724946f0d17e85dedd179f84133cca337111804020c0c247b6f5f",
+      "size": 3141467
+    },
+    {
+      "path": "images/lai-jie-astribot/01.webp",
+      "sha256": "d3f6baae82b8e05dded93f9d13bff919cfa81d7c426c8f713cdab6ced72828c2",
+      "size": 201790
+    },
+    {
+      "path": "images/lai-jie-astribot/02.webp",
+      "sha256": "16bf25c3f7d6a384a006b2836db0da5554008b6665fe8cc2a1eac92f836f9b78",
+      "size": 161912
+    },
+    {
+      "path": "images/lai-jie-astribot/04.webp",
+      "sha256": "ad65292a4d2fb3a5847b3197d0d3a1cb7d5f309639751d65b07a6b200070c484",
+      "size": 1058
+    },
+    {
+      "path": "images/lai-jie-astribot/06.webp",
+      "sha256": "ad65292a4d2fb3a5847b3197d0d3a1cb7d5f309639751d65b07a6b200070c484",
+      "size": 1058
+    },
+    {
+      "path": "images/lai-jie-astribot/07.webp",
+      "sha256": "2e2bfa7b58b86b4670f395c608ccea0e1f009b52f340eae1bc5c1970212ddf80",
+      "size": 450930
+    },
+    {
+      "path": "images/lai-jie-astribot/08.webp",
+      "sha256": "ad65292a4d2fb3a5847b3197d0d3a1cb7d5f309639751d65b07a6b200070c484",
+      "size": 1058
+    },
+    {
+      "path": "images/lai-jie-astribot/09.webp",
+      "sha256": "ce2c67ef12f220c1211a5d56c5c8bd4a205bf587ab619ba845d08643589f22d4",
+      "size": 233842
+    },
+    {
+      "path": "images/lai-jie-astribot/10.webp",
+      "sha256": "ad65292a4d2fb3a5847b3197d0d3a1cb7d5f309639751d65b07a6b200070c484",
+      "size": 1058
+    },
+    {
+      "path": "images/lai-jie-astribot/11.webp",
+      "sha256": "2ee8b8ea6d5f6e37b7eba890ddeaa7b2ce9b7dda1ccae8ab90f53e1101cc1506",
+      "size": 233412
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/01.webp",
+      "sha256": "6f4c2fe5d72016629c216f81e9de96f6a5a7bb00319fc83adb473d1486057457",
+      "size": 330204
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/02.webp",
+      "sha256": "c0ca2da618edee2e7d403e52b6e8b34fee39594aecd904c54757a8800655ccd3",
+      "size": 868420
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/03.webp",
+      "sha256": "d92d0d79d7e2c76b80a5e8362b963721e5ea5de0456b2a158fa4e8c28b4336b7",
+      "size": 326230
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/04.webp",
+      "sha256": "1ff5b63c21fe005b195b0427d66048005808af44dca98e394f894065243287f9",
+      "size": 77454
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/05.webp",
+      "sha256": "8205449b511df39a41e88dc4f711b6abbb3021406d0b5f265739d2a97e499963",
+      "size": 73942
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/06.webp",
+      "sha256": "298b7281186207d27d91d86a269f0b211caed6742a30ffd587fa84ebecfb6dd4",
+      "size": 399380
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/07.webp",
+      "sha256": "71eacc0849f69d9dd0756c4d1dbf38d8ea716fcf756bcf7174279a7e2f804826",
+      "size": 116688
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/08.webp",
+      "sha256": "4a5d1603532559e0bb33491df1ad5a110bcf42b103f5e78aec443be401b40e5f",
+      "size": 555338
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/09.webp",
+      "sha256": "25b7c6f8833fe0bba6d7918d7ecd3e597719384b41275002e50e1914bf137dfc",
+      "size": 300168
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/10.webp",
+      "sha256": "c7dc8bb60affc15a0c5624c605f402364f83536b810c5217274bc30b86cc2d22",
+      "size": 513792
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/11.webp",
+      "sha256": "7f81429149bbeec944c5310730d50fa92cd3283d4055c810ea266daa04f94c3d",
+      "size": 299614
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/12.webp",
+      "sha256": "0006cb2cdbcb59f1d41456d6ee75032e85afc0c559d6f9bb1ca56062b8a65a20",
+      "size": 434938
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/14.webp",
+      "sha256": "f50c30abb4f68c9da4ef85b5e0088251d709114a1ac43e5bc7bec6e6dfa8cdf3",
+      "size": 354188
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/17.webp",
+      "sha256": "762e2aba7656b1548ee69a9d94b5032944e774bd9dd456501381ba7bac618ec0",
+      "size": 291186
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/19.webp",
+      "sha256": "4e11b41e664c64f69013ced7f2bd56d1548d2aed92f0aa7254c279adca8e336e",
+      "size": 366466
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/20.webp",
+      "sha256": "f7c10f15efa0a908cea0834b3d23a51f33b98de4e709f158aafc9013cfe30546",
+      "size": 160924
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/21.webp",
+      "sha256": "35a7818c633fc815cae1f2a7571377e81bca95ecf2045b3ec52dc0e12bf4ac10",
+      "size": 64280
+    },
+    {
+      "path": "images/legged-robotics-research-landscape/23.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/02.webp",
+      "sha256": "8ef43cfcaffd290671f5d4fd403bf191b65355ed02d34e933403b2c4f09dc2f0",
+      "size": 176330
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/03.webp",
+      "sha256": "5dc27f9373a3d3cbca0efed18707f814b679ed2f6ba9b6837de079b9ea925eb7",
+      "size": 77530
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/04.webp",
+      "sha256": "52ed3372327e6edbdc74eb4a3071b5ef08a7ef295a4d16aa684bbb3187df5f1d",
+      "size": 713598
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/05.jpg",
+      "sha256": "a6a3eae89a0a4469bd90d86a3108ae9dd80d7c96bb77ecd75cbde4385f35f18b",
+      "size": 38924
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/06.webp",
+      "sha256": "895a26778393d269a51e2e61b3be41e03e4ac64308c13b2766af3ce7e758fd43",
+      "size": 290214
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/07.webp",
+      "sha256": "7ea0c9e807180ebae75b62e0d9c81127bc6c3bdc9d55acb875cfa53e0ed9720b",
+      "size": 249690
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/08.jpg",
+      "sha256": "9863641029b9fb3286517eda0456565d92c6036d9562707bda47abf15ff1dfaa",
+      "size": 8009
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/09.jpg",
+      "sha256": "754501da9b7722679bf81b444958a30beef5004bac7876ee91baef65712fc5ca",
+      "size": 47459
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/10.webp",
+      "sha256": "356dbcd38fe7873b2099ec5e7011072cddd11e0edf72150120c9db1f82656220",
+      "size": 123236
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/11.webp",
+      "sha256": "f4548961840f4a23d4e8edc504ac2fab0e83b6ba62df0df3951fed02f22148df",
+      "size": 304996
+    },
+    {
+      "path": "images/modalitynet-human-to-robot-data/12.webp",
+      "sha256": "46a6e19306a9963db87682056cbd04a692fad766e7f3a15633388856a511861d",
+      "size": 140426
+    },
+    {
+      "path": "images/osh-ep01-toddlerbot/01.webp",
+      "sha256": "244e25c7f052535bac9af4070e6768cd3406cda6990bf7ec4256cc7c5df9eb88",
+      "size": 221956
+    },
+    {
+      "path": "images/osh-ep01-toddlerbot/02.jpg",
+      "sha256": "2181fee94cfcb90dce1c9bff85f2c7a4e1670d995116ca41bc4afe838c7c2f59",
+      "size": 35551
+    },
+    {
+      "path": "images/osh-ep01-toddlerbot/03.jpg",
+      "sha256": "90895a0c10977b8c2c29d15dbe980ac9163a39ffbdf535f79951b243feee38e7",
+      "size": 25269
+    },
+    {
+      "path": "images/rfm-ep02-octo/01.webp",
+      "sha256": "9f0c83e1ca32136b05bd732064ff8632a7010467cfda17d1a210f01f572c2dae",
+      "size": 338218
+    },
+    {
+      "path": "images/rfm-ep02-octo/02.webp",
+      "sha256": "683f8482d52bb12dd378722a09a90051bc6a6cf8e10eb651a602f2b788c055eb",
+      "size": 243166
+    },
+    {
+      "path": "images/rfm-ep02-octo/03.webp",
+      "sha256": "f074b7746d635d867d00fed7a3cac33c2449b646e766b287472a8341d489f880",
+      "size": 91458
+    },
+    {
+      "path": "images/rfm-ep03-rdt/02.webp",
+      "sha256": "a0091765f5389c4a46cc99c313e782051fde46688cf8d364bff04dcbcc94c72b",
+      "size": 268860
+    },
+    {
+      "path": "images/rfm-ep03-rdt/03.webp",
+      "sha256": "70759e96b5f1e16cfbbdcee5cb7fb6478092e961c01b71ce00e64528358a204d",
+      "size": 11078
+    },
+    {
+      "path": "images/rfm-ep04-pi0-helix-go1/01.webp",
+      "sha256": "1a9a448a4fa38b1e188952de58a1edc20bd1dcc557307a9a08f15eed215a1aa6",
+      "size": 196544
+    },
+    {
+      "path": "images/rfm-ep04-pi0-helix-go1/02.webp",
+      "sha256": "217eeef3f25e99c551a6ac92e348a073be31851c83dfc5ecfe513d8f6f27b2f3",
+      "size": 56164
+    },
+    {
+      "path": "images/rfm-ep04-pi0-helix-go1/03.webp",
+      "sha256": "d4d27108ac0f28d71a3d289b089701b217c0b94f0b9ade6675b4e7c84c6932eb",
+      "size": 1333684
+    },
+    {
+      "path": "images/rfm-ep04-pi0-helix-go1/04.webp",
+      "sha256": "c9e30984857ddcc21c3c3746d0072c88c6c024fd21f58de0f2f6f3f080bd06c8",
+      "size": 84992
+    },
+    {
+      "path": "images/rfm-ep04-pi0-helix-go1/05.webp",
+      "sha256": "267b9abc2c03674e10814455f6f4f61d0f16cde7177c151d3f2065eb8236ee28",
+      "size": 125346
+    },
+    {
+      "path": "images/rfm-ep04-pi0-helix-go1/06.webp",
+      "sha256": "a9024e3eef4f8a7c87c015020dd42820416fdb2522f8aa98d91b8c1197a4150e",
+      "size": 37578
+    },
+    {
+      "path": "images/rfm-ep05-hi-robot/01.jpg",
+      "sha256": "8726543299d561ce50dc4807a572bb09165c31f69fdb383c7db5db978af9749d",
+      "size": 2651
+    },
+    {
+      "path": "images/rfm-ep05-hi-robot/02.jpg",
+      "sha256": "f1b3065df2d3f9043cd94bbc13f4bf8cff262c1135171a282ce442761275466a",
+      "size": 13576
+    },
+    {
+      "path": "images/rfm-ep05-hi-robot/03.webp",
+      "sha256": "54e67c01dfb46b56d1340ff6322b199dba05322eda241465c8f47f1d9f21fdb0",
+      "size": 47674
+    },
+    {
+      "path": "images/rfm-ep05-hi-robot/04.webp",
+      "sha256": "47f53c4065f4700fed744eef4cb96c62b5fbece6ccd23902648965dfdab2dba6",
+      "size": 66736
+    },
+    {
+      "path": "images/robot-data-ep01-atm/01.webp",
+      "sha256": "c242f2fd24fa692bad36239be80121b1a657ca931647c5fd6336376e0f582c53",
+      "size": 114488
+    },
+    {
+      "path": "images/robot-data-ep01-atm/04.webp",
+      "sha256": "9060b325d932b7fd1383db9816dc0ad3b002d1b7833ed04698c5a3f859691de6",
+      "size": 2598476
+    },
+    {
+      "path": "images/robot-data-ep01-atm/05.webp",
+      "sha256": "f94b421bccd7473e50c8971f5d9e5500260fb0839f4e2b483705a0cc15ac405d",
+      "size": 3010368
+    },
+    {
+      "path": "images/robot-data-ep01-atm/06.webp",
+      "sha256": "b94c36cebc5ebf9f97da0b88e0917a92fc3bb4019e209cf6fd295fb728c0574d",
+      "size": 3290802
+    },
+    {
+      "path": "images/robot-data-ep01-atm/07.webp",
+      "sha256": "cf484d8f6ba02a8fde0e19c1938ef935cfc87b68c65e1b7159e4b8e7a7c97063",
+      "size": 3050486
+    },
+    {
+      "path": "images/robot-data-ep01-atm/09.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/robot-data-ep02-umi/01.webp",
+      "sha256": "2b17f27b6eca76e891c9c42093951affd2bf10a8cb69454cc8fb35478d94ff43",
+      "size": 239264
+    },
+    {
+      "path": "images/robot-data-ep04-mimicplay-dexcap/02.webp",
+      "sha256": "d89ec55e7613403e3307e8a7c6e7796b79df774cab2abd20a1366346ef35b32b",
+      "size": 219648
+    },
+    {
+      "path": "images/robot-data-ep04-mimicplay-dexcap/05.webp",
+      "sha256": "cfe8a5bfd18f58a39404dac82d94e1df6a7b7d5219ab1159956eadabdf11ec9d",
+      "size": 2378664
+    },
+    {
+      "path": "images/robot-data-ep04-mimicplay-dexcap/11.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/robot-data-ep05-humanplus-mobile-aloha/03.webp",
+      "sha256": "2214c3dc3fbe26df040ad94d76bd2eb310fefa9f11213456d44c136beb2fa28c",
+      "size": 130362
+    },
+    {
+      "path": "images/robot-data-ep06-eureka-dreureka/04.webp",
+      "sha256": "bf646f6445f2ffd08fcc96b496a27173366f7e1fa391c9be12c0382e3e3e1e17",
+      "size": 3503176
+    },
+    {
+      "path": "images/robot-data-ep07-parkour-driving/05.webp",
+      "sha256": "8e5f9fa30bbcb6ec83847faf54b4dce14c4855988fb5ff80261f5c1776a2a043",
+      "size": 59366
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/04.webp",
+      "sha256": "ac6f0c5a037d1c6e7a525f7ebc5994cb1c8f68dccac6ff68c8f4538ef33f9144",
+      "size": 5985350
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/05.webp",
+      "sha256": "b9f82513dacd891a8acf2b367234ce1fd2a0c3addca696410b40313f2898dffe",
+      "size": 5726734
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/06.webp",
+      "sha256": "36c9c806a8882450f5bacb4978090a1132070135c250ea08ed3da8e00d93d624",
+      "size": 540194
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/07.webp",
+      "sha256": "36e91fdd87918adea1c5c825bde6b7e4a2edd612a24cca48e1c784118ec22fd0",
+      "size": 343968
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/08.webp",
+      "sha256": "fd69c0e2e495f8e41df2f222a208c1e61089924109b6b22fcf2aea06463cdeea",
+      "size": 2668068
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/09.webp",
+      "sha256": "9b880ab87c1d6214cc2c0491ec8c70901861ea4cee79c50e91e253ebbac4f507",
+      "size": 4400804
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/10.webp",
+      "sha256": "94b6035970c971e1bca7e9a1c12f4d43464985e7d54355f2d57d668daf9a3473",
+      "size": 172342
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/11.webp",
+      "sha256": "59fed874e6e50eda5879c6f282b6698d3b264219ffad9e29fe0fc207d0b9a360",
+      "size": 1639266
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/12.webp",
+      "sha256": "1583b535f880d47bc2e1448823235802e953277e0f1aef5a539e5f0e46b3c9c9",
+      "size": 253126
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/13.webp",
+      "sha256": "0e394a219aed37738fb88a6cfd49de8a796740833e7b1cda48d0eab31c4f07e9",
+      "size": 649458
+    },
+    {
+      "path": "images/robot-data-ep08-robogen/16.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/robot-data-ep09-heterogeneous-data/04.webp",
+      "sha256": "86b07617f06c23d76e6a5110e0b2c675995471e2bae67e57f7f7be2795b97c0b",
+      "size": 295576
+    },
+    {
+      "path": "images/robot-data-ep09-heterogeneous-data/10.webp",
+      "sha256": "59025a9022db6f3c8fd5510bab66d89a4ade58f8528a2869e4304a4343abe27c",
+      "size": 61554
+    },
+    {
+      "path": "images/robot-data-ep10-summary/01.webp",
+      "sha256": "59025a9022db6f3c8fd5510bab66d89a4ade58f8528a2869e4304a4343abe27c",
+      "size": 61554
+    },
+    {
+      "path": "images/robot-data-open-television/03.webp",
+      "sha256": "1d0d5bd55fe13aed179100b17ee0656f5f83d338cfd2fb08bfaba03d923bf479",
+      "size": 193506
+    },
+    {
+      "path": "images/robot-data-open-television/05.webp",
+      "sha256": "c08259ffd62c80eef775aa0cbc3b1db1d6e5fed0577ac4a2db37dc1790640cb4",
+      "size": 296204
+    },
+    {
+      "path": "images/robot-reinforcement-learning/01.webp",
+      "sha256": "136c44b7bcb33c245c0df68355b3deed0b4b1d5cdd563e3019a19769c7a436ee",
+      "size": 246826
+    },
+    {
+      "path": "images/robot-reinforcement-learning/02.jpg",
+      "sha256": "267066b141806e0c230394f37f53de6a8231ccb291d46817250530641c60b66a",
+      "size": 1601
+    },
+    {
+      "path": "images/robot-simulators-landscape/01.webp",
+      "sha256": "660895105ca17fefee28b74066889c61f5650735ee1cd7bc1e2eb0c6996cc72e",
+      "size": 92836
+    },
+    {
+      "path": "images/robot-simulators-landscape/09.webp",
+      "sha256": "cb362317fd7104048f656a5986d8d12328829b28adac830ab862f9d33231f7f7",
+      "size": 1160874
+    },
+    {
+      "path": "images/robot-simulators-landscape/10.webp",
+      "sha256": "a7ed1a1c5441abe0bf9fc5186ba97e6f85a0ba4d2edc570232d3df6feb571a5d",
+      "size": 3817290
+    },
+    {
+      "path": "images/robot-simulators-landscape/13.webp",
+      "sha256": "a1bdb8d8f3660d54505ea8cf5cd6ef29bf9223ac4f2957feace7d89512302dbd",
+      "size": 697192
+    },
+    {
+      "path": "images/robot-simulators-landscape/14.webp",
+      "sha256": "7cec4e145705b0c9cdb99e2f7cfc768f9cfe221a161144e8097029313d3d4622",
+      "size": 38156
+    },
+    {
+      "path": "images/robot-simulators-landscape/16.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/robotics-ep01/01.webp",
+      "sha256": "f76c0b88ff5028414c3a0c89b5410293b3bffdb1631e0e3a67354340dd61b47b",
+      "size": 538802
+    },
+    {
+      "path": "images/robotics-ep01/02.webp",
+      "sha256": "a1465efa74a5551620094ea57a1814a95f2562ffb716f1c3631bbbe3af160f49",
+      "size": 914434
+    },
+    {
+      "path": "images/robotics-ep01/03.webp",
+      "sha256": "64416f759e7e4ab65097e246b6ec0acd83472a40c2bc5ae30a7fd1a16c5e9a63",
+      "size": 1638832
+    },
+    {
+      "path": "images/robotics-ep01/04.webp",
+      "sha256": "ecef2fe9fa78270df62427a98efda69b8b16d1fb867e9216498a36248130660e",
+      "size": 504316
+    },
+    {
+      "path": "images/robotics-ep01/05.webp",
+      "sha256": "c8857dc5e701509a0b9f6b95f514f081be8d3be91d024519d1c0e2fc117e8449",
+      "size": 1086808
+    },
+    {
+      "path": "images/robotics-ep01/06.webp",
+      "sha256": "63aeb5873b832203007d316c9b8f5c236439f508b7081946faa19b35ee59a614",
+      "size": 111688
+    },
+    {
+      "path": "images/robotics-ep01/07.webp",
+      "sha256": "aaa58f6cf654fa36b26e7cd3564f83a36911ba8ff3b9e29b8c94783283dcccec",
+      "size": 523962
+    },
+    {
+      "path": "images/robotics-ep01/08.webp",
+      "sha256": "c179939305414e17b59867f6ac72d6ded9fb2af952ed4e90e4f9ab15da20d07c",
+      "size": 832448
+    },
+    {
+      "path": "images/robotics-ep01/09.webp",
+      "sha256": "621e2ecc5578c33ae65228bbf483c8afd98f2da3df38a8dc2d56b36688ec9ad0",
+      "size": 415538
+    },
+    {
+      "path": "images/simulately-interview/01.webp",
+      "sha256": "847402a66eea1b18a51f9d8c612919e8d94638f863db864b3f2eb2a5b4601f80",
+      "size": 289916
+    },
+    {
+      "path": "images/simulately-interview/05.webp",
+      "sha256": "57fb3ca242959bad0ab12b9a6426d1e97b35ffc71777e7b6040465353ec8e151",
+      "size": 7740
+    },
+    {
+      "path": "images/sonic-zhengyi-luo/01.webp",
+      "sha256": "0ab7f6ecad8dab0e681193b082d838f0ef3729785a6b7c26731970b7ac82bd08",
+      "size": 225356
+    },
+    {
+      "path": "images/sonic-zhengyi-luo/03.jpg",
+      "sha256": "bd95a6557378fcc2418fdfc2caad81b89f0f5ea84640d1a6fc77d6ebe3b93d6e",
+      "size": 49087
+    },
+    {
+      "path": "images/sonic-zhengyi-luo/04.webp",
+      "sha256": "1b0b7a6f4ed247d19f40d7267501ab2e7fa8e823a5ee5dd9e2573c91d64811e3",
+      "size": 86770
+    },
+    {
+      "path": "images/vggt-jianyuan-wang/01.jpg",
+      "sha256": "22e380fedd34549efab5ef1069bcb0f147bd2d48de6fddc26661b2fdc54c614a",
+      "size": 32479
+    },
+    {
+      "path": "images/vggt-jianyuan-wang/02.jpg",
+      "sha256": "b13628cf54eafdb9261009c1472aa7015d03f397dc1c086d640a921442975816",
+      "size": 24168
+    },
+    {
+      "path": "images/vggt-jianyuan-wang/03.webp",
+      "sha256": "c562f25f3eb948c7ad19536330bace0b01ef89e643774e13911efa3e2fe014a4",
+      "size": 85810
+    },
+    {
+      "path": "images/voxposer-rekep/01.webp",
+      "sha256": "f3b8a7d4162b13f2878180ea9f2c8fcc791a56a2d0c8f10c066baead1ef11b3f",
+      "size": 241626
+    },
+    {
+      "path": "images/voxposer-rekep/02.jpg",
+      "sha256": "73d81836e42e2f7befe8e13742dcdb525ca3f3f1bc6d827c0c153b00ae556d53",
+      "size": 16945
+    },
+    {
+      "path": "images/voxposer-rekep/03.webp",
+      "sha256": "adf62d13f9d79d12a33a04432f488370586beae9048dded8036e957ef3cdde4e",
+      "size": 214762
+    },
+    {
+      "path": "images/voxposer-rekep/04.webp",
+      "sha256": "f3b8a7d4162b13f2878180ea9f2c8fcc791a56a2d0c8f10c066baead1ef11b3f",
+      "size": 241626
+    },
+    {
+      "path": "images/voxposer-rekep/05.jpg",
+      "sha256": "1357db32b2f0eb7a0d37dc546d431d3d7b399ffa83a202f35296a17fdbe2b6e9",
+      "size": 60100
+    },
+    {
+      "path": "images/voxposer-rekep/06.jpg",
+      "sha256": "6317b3513ce3248da02bed894b6c471993506679604d36ec64183239f9a00882",
+      "size": 33850
+    },
+    {
+      "path": "images/world-models-ep01-dreamzero-dreamdojo/01.webp",
+      "sha256": "2c665011c17a11eb96f64c6c41de57e649a020e7647a6d3f0ee75f1f24c63d6d",
+      "size": 642344
+    },
+    {
+      "path": "images/world-models-ep01-dreamzero-dreamdojo/02.webp",
+      "sha256": "76d9815371b9b032a2b8b43574427076f183f3bc46803c166f0410becf93d86b",
+      "size": 370382
+    },
+    {
+      "path": "images/world-models-ep02-interactive-world-simulator/01.jpg",
+      "sha256": "b013345a4e4fa8069106392f2fdfbbfe314394f83d29dc432593d4588c15722d",
+      "size": 30175
+    },
+    {
+      "path": "images/world-models-ep02-interactive-world-simulator/02.jpg",
+      "sha256": "964945723b45396e6cfb50aaaa7d1bd232541aa0fdbcabb191ce2962f01c4beb",
+      "size": 29685
+    },
+    {
+      "path": "images/world-models-ep02-interactive-world-simulator/03.jpg",
+      "sha256": "9c3af76849e81035895aca299d4e3efb9423475898d63948dfa4a1e2d190ad4e",
+      "size": 31702
+    },
+    {
+      "path": "images/world-models-ep02-interactive-world-simulator/04.jpg",
+      "sha256": "e2e3695e34eb6403b0be5d0098f7f00d79dd33cf4b6f7a11acb78013750e1c62",
+      "size": 31781
+    },
+    {
+      "path": "images/world-models-ep02-interactive-world-simulator/05.jpg",
+      "sha256": "524ac97654a65d492c47164f9ff7f53b7ab467be2918be81bf4245ddb2370354",
+      "size": 25833
+    },
+    {
+      "path": "images/world-models-ep02-interactive-world-simulator/06.jpg",
+      "sha256": "5f38f18956e21efa335c5192cd63cfcfd948049f33570d4767332620eb55bdbe",
+      "size": 29474
+    },
+    {
+      "path": "images/world-models-ep02-interactive-world-simulator/07.webp",
+      "sha256": "19e95bab6064f3f2ae73254fecc63dc22d59f4294794c3b1f462fa54e7de5679",
+      "size": 274946
+    },
+    {
+      "path": "images/world-models-ep03-robotic-world-model/01.jpg",
+      "sha256": "e45e656b2768af61f248b0274028df78192f7d0c04232ac5cc223915f67c59fa",
+      "size": 16733
+    },
+    {
+      "path": "images/world-models-ep03-robotic-world-model/02.jpg",
+      "sha256": "e4f6a7eecb168a84d80083524a7d67c71084373f5c34ef2879545c95d8583566",
+      "size": 55541
+    },
+    {
+      "path": "images/world-models-ep04-motus/01.webp",
+      "sha256": "8ec05252a9a9aeeeb40eddf9e2e073cb904fbc669420f563a9b7c5c10ed6fecd",
+      "size": 335806
+    },
+    {
+      "path": "images/world-models-ep04-motus/02.webp",
+      "sha256": "4ecc76c8016d1d966132e89b864527d0ae6475a271694f47b2cd4dd2f5af9072",
+      "size": 41094
+    },
+    {
+      "path": "images/world-models-ep04-motus/03.webp",
+      "sha256": "b317e5ab4102a2e8b446d72ac63eebd8898da6bde66d9c3301b4267de2faa549",
+      "size": 20810
+    },
+    {
+      "path": "images/world-models-ep04-motus/04.webp",
+      "sha256": "2f8d5c480974e01a0aa1c8afd6449bac5932d9040d17aa566a0ccd7bafbbb5c4",
+      "size": 3926
+    },
+    {
+      "path": "images/world-models-ep04-motus/05.webp",
+      "sha256": "f50e0e4e30fc0b17f220d1503f3501b036c105596f1c67c0efd5bc2c0e320e2d",
+      "size": 3788
+    },
+    {
+      "path": "images/world-models-ep04-motus/06.webp",
+      "sha256": "d10818ee6ffae58aa5a9b150d0712d80de4acbd196c4ab59c77613698b856eda",
+      "size": 3672
+    },
+    {
+      "path": "images/world-models-ep04-motus/07.webp",
+      "sha256": "8ec332eab770492fc79c63f3ff668bfc3507299da221f978aac7dc326aff16d0",
+      "size": 3732
+    },
+    {
+      "path": "images/world-models-ep04-motus/08.webp",
+      "sha256": "3efa5e6179514b2e4322783ef9b2611b5b656b8dbb7f11b9ecfb9096f75a1fe9",
+      "size": 6528
+    },
+    {
+      "path": "images/world-models-ep04-motus/09.webp",
+      "sha256": "bfacc7de8b7f88fd67c9d5a2c51466590afb60b22d661afc4a489ebd94a6c617",
+      "size": 15632
+    },
+    {
+      "path": "images/world-models-ep04-motus/10.webp",
+      "sha256": "6ffecbfa034a963f18c43b56a57c6a5206c2d9784fa83947e2232077623d3efd",
+      "size": 16578
+    },
+    {
+      "path": "images/world-models-ep04-motus/11.webp",
+      "sha256": "0d20bc1a7ae23c66e3b317cf6b19c0d4aa7218cbf620c3da84b39cc9732f2f1d",
+      "size": 237270
+    },
+    {
+      "path": "images/world-models-ep04-motus/12.webp",
+      "sha256": "8cfa6ac11643808ee3bd119787e619c3825d3170251d5bf0ce4d8665068c01ed",
+      "size": 198300
+    },
+    {
+      "path": "images/world-models-ep04-motus/13.webp",
+      "sha256": "9c67cb6685d3e88ea0e695efb05c581fba3facc2658d64f3a1098f4549fc271f",
+      "size": 101878
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/01.webp",
+      "sha256": "d91e5cbca7d64de2494b750d4003af64401b564bebfe6107b712bea905d69aa8",
+      "size": 41884
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/02.webp",
+      "sha256": "2ddcb18d67dbc55fd059ff386e8375a10488d3a2d0131646be404c248e2663b8",
+      "size": 116600
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/03.webp",
+      "sha256": "9f358ecfab50930d5a92abf7c39c98ee55460db9266d9a5d6a78065bf856dfaf",
+      "size": 91074
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/04.webp",
+      "sha256": "dc795b2ba5183c83fbe1131637f11e89ac7f26606ec1f88a34c53b2a8418b687",
+      "size": 140670
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/05.webp",
+      "sha256": "e7c04eb3e0bc3e4c7b95ad2a9be9f907b13a18159c93fb8f930967d933a01f66",
+      "size": 129012
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/06.webp",
+      "sha256": "9e6dbb9f2ddfc57ec755cce633a2d6a69812b8f36f8dfa0df1d5a1ae064d8ac2",
+      "size": 310654
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/07.webp",
+      "sha256": "18140dc6a109273a807edabe5b778b2433239ed5d8e50c1deaa87e4c1dcbb33b",
+      "size": 278498
+    },
+    {
+      "path": "images/world-models-ep05-pointworld/08.jpg",
+      "sha256": "df616a28f517d12bbf0602e9a46309479c7e2fb31e2db303a839413a86e821e3",
+      "size": 48705
+    },
+    {
+      "path": "images/world-models-ep06-vpp/01.webp",
+      "sha256": "1688e464726b358d39832a8ee4ba952b827a79af85f14b139fd353e264af81c2",
+      "size": 266108
+    },
+    {
+      "path": "images/world-models-ep06-vpp/02.webp",
+      "sha256": "6de8b271ea34f7941ebe4b59ff3ecacb7d74fdc62d725f0a9c84067262e85c09",
+      "size": 137088
+    },
+    {
+      "path": "images/yunzhu-li-learned-dynamics/01.jpg",
+      "sha256": "926d2947db28adc2fa781a2497d263c35a3f1d87b26bb9d84d6d70d7b5a8f3e0",
+      "size": 12461
+    },
+    {
+      "path": "images/yunzhu-li-learned-dynamics/02.jpg",
+      "sha256": "74ab3356c9de10eac13e0690770cc1185568c1af24cf8452ca9a02370cf3d924",
+      "size": 25031
+    },
+    {
+      "path": "images/yunzhu-li-learned-dynamics/03.jpg",
+      "sha256": "dd5eb935a31d4cefe9530eed54cec66c821f0072f921ef3aa637ff840b25afa0",
+      "size": 12508
+    },
+    {
+      "path": "images/yunzhu-li-learned-dynamics/04.webp",
+      "sha256": "e556bbdcfd0c1a88c50c3023e3b0bd9bb578b3d72fe1830e143b4ffc6deb6ef2",
+      "size": 195136
+    },
+    {
+      "path": "images/yunzhu-li-learned-dynamics/05.jpg",
+      "sha256": "d1ae2746d25b628fdbb5eb881b0dc6a563aeaeebc727d498c0c2d87e9c3856b7",
+      "size": 30631
+    },
+    {
+      "path": "images/zhengyi-luo-phc/02.webp",
+      "sha256": "0631dcf0e7d2e470891c67646bd3837193e914357459cf1dca0c4e92c9ab248e",
+      "size": 5177638
+    },
+    {
+      "path": "images/zhengyi-luo-phc/03.jpg",
+      "sha256": "dde6624acf53157bf20068ad82cde4bbc59d3f22331bf895fa9178424490b85d",
+      "size": 71786
+    },
+    {
+      "path": "images/zhengyi-luo-phc/04.jpg",
+      "sha256": "4fcef3dfe83f324bf48ed82783902541b3ad0350e8ff03ea2683fce74bd2fa98",
+      "size": 78948
+    },
+    {
+      "path": "images/zhengyi-luo-phc/05.jpg",
+      "sha256": "8983d7549653151994cc2a94282a38efcd75f557046effc777022747ca4fcfcd",
+      "size": 74672
+    },
+    {
+      "path": "images/zhengyi-luo-phc/06.jpg",
+      "sha256": "ae594f05435ba89a3d6d68da897d3b6b19b57d3cd5ae63dac8dc0b43d666d609",
+      "size": 76567
+    },
+    {
+      "path": "images/zhengyi-luo-phc/07.jpg",
+      "sha256": "9c7dc25f3fc7873e962c0af104e9e0479ea1c25bf5b3945c00ec3957259f257d",
+      "size": 53464
+    },
+    {
+      "path": "index.html",
+      "sha256": "9c9727ac5d9681cbc6de6489cec50fcd17ffbb059279cc0a8458f116308ae717",
+      "size": 74291
+    },
+    {
+      "path": "reading.js",
+      "sha256": "98149e15b569fd4284f933c5b144810c1bc3b081df5d474e177f27c8900e9ad5",
+      "size": 884
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "575338d620a4154297a4285f427f3da0f85b95f5c4d03274a051bbc6c02efd24",
+      "size": 97
+    },
+    {
+      "path": "search-index.json",
+      "sha256": "24fb4a2a570cd7d276d2974ac030e5a684f7a3468ba536ddfe6f42ac12ba0d7f",
+      "size": 3724011
+    },
+    {
+      "path": "search.js",
+      "sha256": "be73b2ee77071eaf5f8b5fc499c52f88750d72f2985ea0fb61470d92ac12a72f",
+      "size": 1744
+    },
+    {
+      "path": "series/human-data/index.html",
+      "sha256": "f282925326211426d151282618395083ac841d76e1d86ccd56771ad6bac73cc1",
+      "size": 15995
+    },
+    {
+      "path": "series/industry-dialogues/index.html",
+      "sha256": "c32b331b5849be98693575671b1b8437274be1fdf4ce68ae5643ba7f3823cce3",
+      "size": 7738
+    },
+    {
+      "path": "series/open-source-hardware/index.html",
+      "sha256": "cbf35f1b4b5c78cd55d081e79623992ca9675db0f89648f959cf64eed339b1e1",
+      "size": 4809
+    },
+    {
+      "path": "series/research-maps/index.html",
+      "sha256": "962a4faf7c0511a1cb2f72999068a4367f8b3fd12515099df9ca03d7ae52112f",
+      "size": 5404
+    },
+    {
+      "path": "series/rl-simulation/index.html",
+      "sha256": "482ca5c0bebdbbd20cd55eb24fab1ca967313a82888424ac3d5a07553526f1c6",
+      "size": 10671
+    },
+    {
+      "path": "series/robot-data/index.html",
+      "sha256": "a8822e401814fdc603ad284fed4fcf4ffefc722333d23bfacea8e606cd32f387",
+      "size": 14472
+    },
+    {
+      "path": "series/robot-learning/index.html",
+      "sha256": "4c45e776c7b3e915efdbffdfedbc5b45682cdea08896066678e0a498784fc2f8",
+      "size": 17305
+    },
+    {
+      "path": "series/robotics-history/index.html",
+      "sha256": "66be2b437af2cc26abea7a981de52ae86553136fb6d3b5384e04491fdc415174",
+      "size": 4836
+    },
+    {
+      "path": "series/sensing-manipulation/index.html",
+      "sha256": "ed5a965b0ca9a9c1b0bc88aa6e37616e923a5c5fe93d66122a406b95c905346b",
+      "size": 5923
+    },
+    {
+      "path": "series/whole-body-control/index.html",
+      "sha256": "1e055d2fae8563d292172e39cfee89d9a08bdc3eff453c96d374731c6b5b9d75",
+      "size": 7850
+    },
+    {
+      "path": "series/world-models/index.html",
+      "sha256": "ba198b9207cd7584796e03731f352157c0892a4299e5fd67b3bc3dd7a4f50f01",
+      "size": 9670
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "05d86ca8d9a80139412c500d039cb6aca99d1bc4bd483f34746cd4c88a8cd9fa",
+      "size": 16934
+    },
+    {
+      "path": "style.css",
+      "sha256": "d103a9a09472504efd70e1b757e638ab42e707d1122057e2487912b6ed080cce",
+      "size": 20445
+    }
+  ]
+}

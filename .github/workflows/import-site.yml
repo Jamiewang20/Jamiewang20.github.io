@@ -1,0 +1,47 @@
+name: Import verified personal website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.migration/site-manifest.json'
+      - '.migration/import_site.py'
+      - '.github/workflows/import-site.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: personal-site-migration
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Import and validate the complete published snapshot
+        run: python3 .migration/import_site.py
+      - name: Save the website and all images in GitHub
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add *.html en articles series images *.css *.js *.json *.xml *.txt .nojekyll .migration/completed.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import complete bilingual website and verified assets'
+            git push origin HEAD:main
+          fi
+      - name: Package the independently hosted website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
