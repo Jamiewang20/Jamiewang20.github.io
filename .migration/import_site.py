@@ -28,6 +28,9 @@ def transfer(entry):
     destination.parent.mkdir(parents=True, exist_ok=True)
     if args.local_source:
         data = (args.local_source / relative).read_bytes()
+    elif (ROOT / relative).is_file() and hashlib.sha256((ROOT / relative).read_bytes()).hexdigest() == entry['sha256']:
+        # Some hosts reserve routes such as /404.html; seed their exact files.
+        data = (ROOT / relative).read_bytes()
     elif already_imported:
         data = (ROOT / relative).read_bytes()
         destination.write_bytes(data)
