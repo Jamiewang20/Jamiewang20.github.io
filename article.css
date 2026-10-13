@@ -1,0 +1,57 @@
+/* Editorial reading layout shared by all Smart Note articles. */
+.article-page{--reading-font:Georgia,"Times New Roman","Songti SC","Noto Serif CJK SC",SimSun,serif}
+.article-page .wrap{max-width:1280px;padding:0 32px}
+.article-page .article-top{max-width:720px;margin:0 auto;padding:48px 0 30px}
+.article-page .back{font-size:14px;color:#777;border-bottom:1px solid #ddd;padding-bottom:3px}
+.article-page .article-top .eyebrow{margin:32px 0 18px!important;background:none;padding:0;font-size:14px;font-weight:650;letter-spacing:.02em;color:#666}
+.article-page .article-top h1{font-family:var(--reading-font);font-size:clamp(34px,3.6vw,46px);font-weight:700;line-height:1.35;letter-spacing:-.025em;margin:0 0 20px;overflow-wrap:anywhere}
+.article-page .article-top .deck{font-size:19px;line-height:1.75;color:#777;margin:0 0 27px}
+.article-page .meta{font-size:14px;line-height:1.8;gap:8px 18px;padding:19px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.article-page .meta>span:first-child{font-weight:600;color:#333}.article-page .meta a{color:#666;text-decoration:underline;text-underline-offset:4px;text-decoration-color:#ccc}
+.article-page .reading{max-width:1168px;margin:0 auto;display:grid;grid-template-columns:180px minmax(0,720px) 180px;gap:44px;padding:12px 0 80px;align-items:start}
+.article-page .prose{grid-column:2;font-family:var(--reading-font);font-size:20px;line-height:1.85;color:#292929;min-width:0}
+.article-page:lang(zh-CN) .prose{font-size:19px;line-height:1.95;letter-spacing:.015em}
+.article-page .prose p{margin:0 0 28px}.article-page .prose h2{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;font-size:32px;line-height:1.5;font-weight:750;letter-spacing:-.025em;margin:66px 0 28px;border-top:1px solid #ddd;padding-top:32px;color:#111;scroll-margin-top:110px}
+.article-page .prose h2:before{content:"";display:block;width:38px;height:5px;background:var(--yellow);margin-bottom:18px}
+.article-page .prose h3{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;font-size:24px;line-height:1.6;font-weight:650;letter-spacing:-.015em;margin:44px 0 22px;color:#111;scroll-margin-top:110px}
+.article-page .speaker{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;font-weight:650;font-size:.9em;color:#111}
+.article-page .prose a{overflow-wrap:anywhere;text-decoration:underline;text-decoration-color:#d5b52e;text-decoration-thickness:1px;text-underline-offset:4px}
+.article-page .prose figure{margin:36px 0 40px}.article-page .prose img{display:block;width:auto;max-width:100%;height:auto;margin:auto;border-radius:0}
+.article-page .prose figcaption{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif;font-size:14px;color:#888;line-height:1.65;margin-top:13px;letter-spacing:0}.article-page .prose figcaption:empty{display:none}
+.article-page .toc{grid-column:1;position:sticky;top:105px;max-height:calc(100vh - 140px);overflow-y:auto;padding:0 12px 15px 0;border:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif;font-size:14px;line-height:1.65;scrollbar-width:thin}
+.article-page .toc summary{font-size:14px;font-weight:650;color:#222;margin:0 0 20px;cursor:pointer;list-style:none}.article-page .toc summary:after{content:"＋";float:right;color:#888}.article-page .toc[open] summary:after{content:"−"}
+.article-page .toc ol{list-style:none;margin:0;padding:0}.article-page .toc .toc-group{margin:0 0 20px}.article-page .toc a{display:block;margin:0;padding:5px 0;color:#888;border:0;background:none;line-height:1.65}
+.article-page .toc .toc-section{font-weight:600;color:#444}.article-page .toc .toc-children{border-left:1px solid #e5e5e5;padding-left:13px;margin:7px 0 0}.article-page .toc .toc-children li{margin-bottom:5px}
+.article-page .toc a:hover,.article-page .toc a[aria-current="location"]{color:#111;background:none;text-decoration:underline;text-decoration-color:var(--yellow);text-decoration-thickness:3px;text-underline-offset:4px}
+.article-page .original-outline{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif;border-block:1px solid var(--line);padding:16px 0;margin:30px 0 40px;font-size:15px;line-height:1.75;color:#777;letter-spacing:0}.article-page .original-outline summary{cursor:pointer;font-size:14px;color:#555}.article-page .original-outline[open] summary{margin-bottom:18px}.article-page .original-outline p{font-size:14px;margin-bottom:8px}
+.article-page .end{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif;margin:55px 0 0;padding:25px 0;background:none;border-top:1px solid #ddd;font-size:14px;color:#888;line-height:1.8;letter-spacing:0}
+.article-page .footer{max-width:720px;margin:0 auto}
+@media(max-width:1199px){.article-page .reading{display:block;max-width:720px}.article-page .toc{position:static;max-height:none;border-block:1px solid var(--line);padding:17px 0;margin:0 0 30px}.article-page .toc summary{margin:0}.article-page .toc[open] summary{margin-bottom:20px}.article-page .toc-list{columns:2;column-gap:32px}.article-page .toc-group{break-inside:avoid}.article-page .article-top{padding-top:35px}.article-page .reading{padding-top:0}}
+@media(max-width:640px){.article-page .wrap{padding:0 22px}.article-page .article-top{padding-top:28px;padding-bottom:24px}.article-page .article-top h1{font-size:32px;line-height:1.4;margin-bottom:16px}.article-page .article-top .eyebrow{margin-top:26px!important;margin-bottom:14px!important}.article-page .article-top .deck{font-size:17px;line-height:1.8;margin-bottom:21px}.article-page .meta{font-size:14px;gap:6px 14px;padding:15px 0}.article-page .prose,.article-page:lang(zh-CN) .prose{font-size:18px;line-height:1.95;letter-spacing:0}.article-page .prose p{margin-bottom:24px}.article-page .prose h2{font-size:27px;margin-top:48px;padding-top:26px;margin-bottom:24px;line-height:1.55}.article-page .prose h3{font-size:22px;margin-top:34px;margin-bottom:20px;line-height:1.65}.article-page .toc-list{columns:1}.article-page .toc[open]{max-height:65vh;overflow:auto}.article-page .prose figure{margin:28px 0 32px}.article-page .reading{padding-bottom:45px}}
+.article-page .prose video{display:block;width:100%;max-height:75vh;background:#111;object-fit:contain}
+.article-page .translation-note{font-size:13px;color:#777;line-height:1.7;margin:18px 0 0}.article-page .translation-note a{text-decoration:underline;text-underline-offset:3px}
+.article-page .prose:lang(zh-CN){font-size:19px;line-height:1.95;letter-spacing:.015em}
+@media(max-width:640px){.article-page .prose:lang(zh-CN){font-size:18px;line-height:1.95;letter-spacing:0}}
+
+/* A centered newsletter layout with language-specific typography. */
+.article-page{--reading-font:Georgia,"Iowan Old Style","Palatino Linotype",serif}
+.article-page .wrap{max-width:1240px;padding-inline:32px}
+.article-page .article-top{max-width:680px;padding-top:56px;padding-bottom:32px}
+.article-page .article-top h1{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:clamp(32px,3.6vw,44px);line-height:1.16;letter-spacing:-.035em;overflow-wrap:normal;word-break:normal;text-wrap:balance}
+.article-page:lang(zh-CN) .article-top h1{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.4;letter-spacing:-.02em}
+.article-page .article-top .deck{font-size:20px;line-height:1.55;color:#6b6b6b}
+.article-page .reading{max-width:1160px;grid-template-columns:196px minmax(0,680px) 196px;gap:44px}
+.article-page .prose{font-size:20px;line-height:1.75;letter-spacing:0;overflow-wrap:break-word;word-break:normal;hyphens:manual}
+.article-page:lang(zh-CN) .prose,.article-page .prose:lang(zh-CN){font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;font-size:18px;line-height:1.95;letter-spacing:.01em}
+.article-page .prose p{margin:0 0 1.4em}
+.article-page .prose h2{font-size:29px;line-height:1.3;letter-spacing:-.02em;margin:2.2em 0 .85em;padding:0;border:0;text-wrap:balance}
+.article-page .prose h2:before{display:none}
+.article-page .prose h3{font-size:23px;line-height:1.4;margin:1.7em 0 .8em;letter-spacing:-.01em}
+.article-page:lang(zh-CN) .prose h2{line-height:1.5}.article-page:lang(zh-CN) .prose h3{line-height:1.6}
+.article-page .prose blockquote{margin:32px 0;padding:0 0 0 22px;border-left:3px solid #ffde58;color:#555;font-style:italic}
+.article-page .prose ul,.article-page .prose ol{padding-left:1.5em;margin:0 0 1.4em}.article-page .prose li{margin:.5em 0}
+.article-page .prose figure{margin:32px 0 36px}.article-page .prose figcaption{font-size:14px;line-height:1.6;color:#777;max-width:620px;margin:12px auto 0;text-align:center}
+.article-page .toc a{overflow-wrap:break-word;word-break:normal;hyphens:manual;font-size:14px;line-height:1.5}
+.article-page .meta{padding:16px 0}.article-page .end{margin-top:48px}
+@media(max-width:1239px){.article-page .reading{display:block;max-width:680px}.article-page .toc-list{columns:1}.article-page .toc{position:static;max-height:none;padding:16px 0;border-block:1px solid var(--line);margin-bottom:32px}.article-page .toc[open]{max-height:50vh;overflow-y:auto}}
+@media(max-width:640px){.article-page .wrap{padding-inline:20px}.article-page .article-top{padding-top:30px;padding-bottom:24px}.article-page .article-top h1{font-size:32px;line-height:1.2;letter-spacing:-.025em}.article-page:lang(zh-CN) .article-top h1{line-height:1.4}.article-page .article-top .deck{font-size:18px;line-height:1.55}.article-page .prose{font-size:19px;line-height:1.75}.article-page:lang(zh-CN) .prose,.article-page .prose:lang(zh-CN){font-size:17px;line-height:1.95}.article-page .prose h2{font-size:26px;line-height:1.35}.article-page .prose h3{font-size:22px;line-height:1.4}.article-page .prose figure{margin:26px 0 30px}.article-page .meta{font-size:14px}.article-page .prose figcaption{font-size:14px}.article-page .toc[open]{max-height:50vh}}

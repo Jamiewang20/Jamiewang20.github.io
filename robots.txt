@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jamiewang20.github.io/sitemap.xml
