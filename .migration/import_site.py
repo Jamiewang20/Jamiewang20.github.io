@@ -49,8 +49,8 @@ def transfer(entry):
                 # Remove only that transport addition, then require the exact source hash.
                 if relative.suffix == '.html':
                     import re
-                    data = re.sub(rb'<script\\b[^>]*>.*?</script>', lambda m: b'' if b'__CF$cv$params' in m.group(0) and b'/cdn-cgi/challenge-platform/' in m.group(0) else m.group(0), data, flags=re.S)
-                assert len(data) == entry['size'], f"Unexpected length for {relative}: got {len(data)}, expected {entry['size']}; scripts={__import__('re').findall(r'<script[^>]*>.*?</script>', data.decode('utf-8', errors='replace'), __import__('re').S)[-3:]}"
+                    data = re.sub(rb'<script[^>]*>.*?</script>', lambda m: b'' if b'__CF$cv$params' in m.group(0) and b'/cdn-cgi/challenge-platform/' in m.group(0) else m.group(0), data, flags=re.S)
+                assert len(data) == entry['size'], f"Unexpected length for {relative}: got {len(data)}, expected {entry['size']}"
                 assert hashlib.sha256(data).hexdigest() == entry['sha256'], f"Snapshot mismatch for {relative}"
                 break
             except Exception:
