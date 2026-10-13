@@ -45,7 +45,7 @@ def transfer(entry):
                 request = urllib.request.Request(url, headers={'User-Agent': 'PersonalSiteMigration/1.0'})
                 with urllib.request.urlopen(request, timeout=90) as response:
                     data = response.read()
-                assert len(data) == entry['size'], f"Unexpected length for {relative}"
+                assert len(data) == entry['size'], f"Unexpected length for {relative}: got {len(data)}, expected {entry['size']}; title={__import__('re').findall(r'<title>(.*?)</title>', data.decode('utf-8', errors='replace'))[:1]}"
                 assert hashlib.sha256(data).hexdigest() == entry['sha256'], f"Snapshot mismatch for {relative}"
                 break
             except Exception:
